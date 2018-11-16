@@ -23,3 +23,6 @@ Important files-
 1. spiders/GotTGraphSpider.py is the main spider used to scrape fandom wiki
 2. DataProcessor/ScrapyOutputProcessing.ipynb is the jupyter notebook that processes the scrapedOutput and generates tabular data for entities and creates graph in neo4j instance.
 
+Run the whole project-
+1. Run command- "scrapy crawl GotGraphSpider -o Data/ScrapedData.json"
+2. Execute the jupyter notebook - DataProcessor/ScrapyOutputProcessing.ipynb.

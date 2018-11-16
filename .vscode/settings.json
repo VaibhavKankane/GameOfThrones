@@ -1,0 +1,5 @@
+{
+    "python.formatting.yapfArgs": [
+        "--max-line-length=200"
+    ]
+}

@@ -1,0 +1,1241 @@
+LOAD CSV WITH HEADERS FROM "file:///Node_Animal.csv" AS row
+CREATE (n:Animal)
+SET n = row
+
+
+CREATE INDEX ON :Animal(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Episode.csv" AS row
+CREATE (n:Episode)
+SET n = row
+
+
+CREATE INDEX ON :Episode(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Event.csv" AS row
+CREATE (n:Event)
+SET n = row
+
+
+CREATE INDEX ON :Event(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_HistoriesNLore.csv" AS row
+CREATE (n:HistoriesNLore)
+SET n = row
+
+
+CREATE INDEX ON :HistoriesNLore(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_House.csv" AS row
+CREATE (n:House)
+SET n = row
+
+
+CREATE INDEX ON :House(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Location.csv" AS row
+CREATE (n:Location)
+SET n = row
+
+
+CREATE INDEX ON :Location(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Organization.csv" AS row
+CREATE (n:Organization)
+SET n = row
+
+
+CREATE INDEX ON :Organization(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Person.csv" AS row
+CREATE (n:Person)
+SET n = row
+
+
+CREATE INDEX ON :Person(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_PersonType.csv" AS row
+CREATE (n:PersonType)
+SET n = row
+
+
+CREATE INDEX ON :PersonType(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Religion.csv" AS row
+CREATE (n:Religion)
+SET n = row
+
+
+CREATE INDEX ON :Religion(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Season.csv" AS row
+CREATE (n:Season)
+SET n = row
+
+
+CREATE INDEX ON :Season(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Node_Weapon.csv" AS row
+CREATE (n:Weapon)
+SET n = row
+
+
+CREATE INDEX ON :Weapon(url)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalAnimalDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Animal {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalAnimalSpecies.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Animal {url: row.Target})
+CREATE (source)-[:Species]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalEpisodeSeenOrMentioned.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalEventDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalHistoriesNLoreSeenOrMentioned.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:HistoriesNLore {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalHouseAllegiance.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalLocationAssociatedLocation.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:AssociatedLocation]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalLocationDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalLocationRange.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Range]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalPersonAllegiance.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalPersonDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalPersonTypeDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalPersonTypeSpecies.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Species]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalSeasonSeenOrMentioned.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Season {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_AnimalWeaponDeath.csv" AS row
+MERGE (source:Animal {url: row.Source})
+MERGE (target:Weapon {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventAnimalOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Animal {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventEventBattles.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Battles]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventEventConflict.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Conflict]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventEventOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventHistoriesNLorePlace.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:HistoriesNLore {url: row.Target})
+CREATE (source)-[:Place]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventHouseOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventLocationOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventLocationPlace.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Place]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventOrganizationOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventPersonOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventPersonPlace.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Place]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_EventPersonTypeOutcome.csv" AS row
+MERGE (source:Event {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Outcome]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HistoriesNLorePersonNarratedby.csv" AS row
+MERGE (source:HistoriesNLore {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Narratedby]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HistoriesNLoreSeasonSeenOrMentioned.csv" AS row
+MERGE (source:HistoriesNLore {url: row.Source})
+MERGE (target:Season {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseAnimalMilitarystrength.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Animal {url: row.Target})
+CREATE (source)-[:Militarystrength]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseEventAllegiance.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseEventMilitarystrength.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Militarystrength]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseEventReligion.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseHouseAllegiance.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseHouseAncestralweapon.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Ancestralweapon]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseHouseCadetbranches.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Cadetbranches]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseLocationAllegiance.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseLocationAssociatedLocation.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:AssociatedLocation]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseLocationCadetbranches.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Cadetbranches]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseLocationLocation.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseLocationPlacesofNote.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:PlacesofNote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseOrganizationAllegiance.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseOrganizationMilitarystrength.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Militarystrength]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseOrganizationReligion.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseOrganizationRulers.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonAllegiance.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonAncestralweapon.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Ancestralweapon]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonAssociatedLocation.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:AssociatedLocation]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonFounder.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonHeir.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Heir]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonLord.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Lord]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HousePersonTypeMilitarystrength.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Militarystrength]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseReligionReligion.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_HouseWeaponAncestralweapon.csv" AS row
+MERGE (source:House {url: row.Source})
+MERGE (target:Weapon {url: row.Target})
+CREATE (source)-[:Ancestralweapon]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationEpisodeCastles.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:Castles]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationEventCulture.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Culture]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationEventPlacesofnote.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Placesofnote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationHouseCastles.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Castles]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationHouseLocation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationHouseMilitary.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Military]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationHousePlacesofNote.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:PlacesofNote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationHouseRulers.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationCapital.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Capital]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationCastles.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Castles]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationCities.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Cities]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationCulture.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Culture]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationFormedfrom.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Formedfrom]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationFormerly.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Formerly]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationFounder.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationLocation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationMilitary.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Military]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationPlace.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Place]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationPlacesofNote.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:PlacesofNote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationPlacesofnote.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Placesofnote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationPopulation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Population]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationReligion.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationRulers.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationSuccessor.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationTowns.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Towns]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationLocationVillages.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Villages]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationFormerly.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Formerly]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationInstitutions.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Institutions]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationLocation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationMilitary.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Military]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationPopulation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Population]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationReligion.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationOrganizationRulers.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonFounder.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonInstitutions.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Institutions]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonMilitary.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Military]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonPlacesofNote.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:PlacesofNote]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonRulers.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonSuccessor.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypeCulture.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Culture]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypeFormedfrom.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Formedfrom]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypeMilitary.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Military]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypePopulation.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Population]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypeReligion.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationPersonTypeRulers.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Rulers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationReligionFounder.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_LocationReligionReligion.csv" AS row
+MERGE (source:Location {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationEpisodeSeenOrMentioned.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationHistoriesNLoreSeenOrMentioned.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:HistoriesNLore {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationHouseAllegiance.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationHouseCenter.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Center]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationHouseLeader.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Leader]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationLocationAllegiance.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationLocationCenter.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Center]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationLocationLocation.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationOrganizationAllegiance.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationOrganizationClergy.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Clergy]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationOrganizationFounder.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationOrganizationLeader.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Leader]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationOrganizationMembership.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Membership]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationPersonAllegiance.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationPersonFounder.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Founder]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationPersonLeader.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Leader]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationPersonMembership.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Membership]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationPersonTypeMembership.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Membership]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationReligionAllegiance.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationReligionLocation.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationReligionReligion.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_OrganizationSeasonSeenOrMentioned.csv" AS row
+MERGE (source:Organization {url: row.Source})
+MERGE (target:Season {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonAnimalDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Animal {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEpisodeDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEpisodeSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEventAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEventDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEventPredecessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Predecessor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEventSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonEventSuccessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHistoriesNLoreDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:HistoriesNLore {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHistoriesNLoreSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:HistoriesNLore {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHouseAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHouseAssociatedLocation.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:AssociatedLocation]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHouseDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHouseSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonHouseSpouse.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Spouse]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationAssociatedLocation.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:AssociatedLocation]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationCulture.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Culture]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationReligion.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonLocationSuccessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonOrganizationAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonOrganizationDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonOrganizationReligion.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonOrganizationSuccessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonChildren.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Children]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonFather.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Father]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonLovers.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Lovers]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonMother.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Mother]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonPredecessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Predecessor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonSiblings.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Siblings]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonSpouse.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Spouse]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonSuccessor.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonTypeAllegiance.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Allegiance]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonTypeCulture.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Culture]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonTypeDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonPersonTypeReligion.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonReligionReligion.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonSeasonSeenOrMentioned.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Season {url: row.Target})
+CREATE (source)-[:SeenOrMentioned]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonWeaponDeath.csv" AS row
+MERGE (source:Person {url: row.Source})
+MERGE (target:Weapon {url: row.Target})
+CREATE (source)-[:Death]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeEventLocation.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeEventRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Event {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeHouseRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeLocationLocation.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeLocationPlaceoforigin.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Placeoforigin]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeLocationReligion.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeLocationRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeLocationSuccessor.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeOrganizationReligion.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeOrganizationRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypePersonRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypePersonTypePredecessor.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Predecessor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypePersonTypeRuler.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Ruler]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypePersonTypeSuccessor.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:PersonType {url: row.Target})
+CREATE (source)-[:Successor]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_PersonTypeReligionReligion.csv" AS row
+MERGE (source:PersonType {url: row.Source})
+MERGE (target:Religion {url: row.Target})
+CREATE (source)-[:Religion]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_ReligionLocationLocation.csv" AS row
+MERGE (source:Religion {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Location]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_ReligionOrganizationClergy.csv" AS row
+MERGE (source:Religion {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Clergy]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_SeasonEpisodeFinale.csv" AS row
+MERGE (source:Season {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:Finale]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_SeasonEpisodePremiere.csv" AS row
+MERGE (source:Season {url: row.Source})
+MERGE (target:Episode {url: row.Target})
+CREATE (source)-[:Premiere]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponHouseOwner.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:House {url: row.Target})
+CREATE (source)-[:Owner]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponLocationMaker.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:Location {url: row.Target})
+CREATE (source)-[:Maker]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponOrganizationOwner.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:Organization {url: row.Target})
+CREATE (source)-[:Owner]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponPersonMaker.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Maker]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponPersonOwner.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:Person {url: row.Target})
+CREATE (source)-[:Owner]->(target)
+
+
+LOAD CSV WITH HEADERS FROM "file:///Edge_WeaponWeaponMaker.csv" AS row
+MERGE (source:Weapon {url: row.Source})
+MERGE (target:Weapon {url: row.Target})
+CREATE (source)-[:Maker]->(target)
+
