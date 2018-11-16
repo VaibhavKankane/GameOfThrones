@@ -1,0 +1,1638 @@
+Source,Target,Relation,Label
+Qyburn,Valar_Dohaeris,SeenOrMentioned,First seen
+Luwin,Winter_Is_Coming,SeenOrMentioned,First seen
+Luwin,Valar_Morghulis,SeenOrMentioned,Last seen
+Luwin,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Wolkan,The_Red_Woman,SeenOrMentioned,First seen
+Bear_Island_maester,The_Broken_Man,SeenOrMentioned,Appeared in
+Cressen,The_North_Remembers,SeenOrMentioned,Appeared in
+Cressen,The_North_Remembers,SeenOrMentioned,Death shown in episode
+Margaery_Tyrell,What_Is_Dead_May_Never_Die,SeenOrMentioned,First seen
+Margaery_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Margaery_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Volarik,The_Mountain_and_the_Viper,SeenOrMentioned,Mentioned in
+Vaull,The_Watchers_on_the_Wall,SeenOrMentioned,Mentioned in
+Captured_wight,Beyond_the_Wall_(episode),SeenOrMentioned,First seen
+Captured_wight,The_Dragon_and_the_Wolf,SeenOrMentioned,Last seen
+Captured_wight,The_Dragon_and_the_Wolf,SeenOrMentioned,Death shown in episode
+Tyene_Sand,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Tyene_Sand,The_Queen%27s_Justice,SeenOrMentioned,Last seen
+Tyene_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Tyene_Sand,The_Queen%27s_Justice,SeenOrMentioned,Death shown in episode
+Citadel_maester_(The_Winds_of_Winter),The_Winds_of_Winter,SeenOrMentioned,Appeared in
+Brandon_Stark_(son_of_Rickard),Winter_Is_Coming,SeenOrMentioned,Mentioned in
+Brandon_Stark_(son_of_Rickard),Lord_Snow,SeenOrMentioned,Mentioned in
+Brandon_Stark_(son_of_Rickard),First_of_His_Name,SeenOrMentioned,Mentioned in
+Brandon_Stark_(son_of_Rickard),The_Queen%27s_Justice,SeenOrMentioned,Mentioned in
+Elaena_Glenmore,The_Lost_Lords,SeenOrMentioned,First seen
+Gryff_Whitehill,The_Sword_in_the_Darkness,SeenOrMentioned,First seen
+Gryff_Whitehill,The_Ice_Dragon,SeenOrMentioned,Last seen
+Gryff_Whitehill,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Gryff_Whitehill,The_Lost_Lords,SeenOrMentioned,Mentioned in
+Gryff_Whitehill,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Ryon_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Ryon_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Biter,Fire_and_Blood,SeenOrMentioned,First seen
+Biter,Mockingbird,SeenOrMentioned,Last seen
+Biter,Mockingbird,SeenOrMentioned,Death shown in episode
+Rorge,Fire_and_Blood,SeenOrMentioned,First seen
+Rorge,Mockingbird,SeenOrMentioned,Last seen
+Rorge,Mockingbird,SeenOrMentioned,Death shown in episode
+Ludd_Whitehill,Iron_From_Ice,SeenOrMentioned,First seen
+Ludd_Whitehill,The_Ice_Dragon,SeenOrMentioned,Last seen
+Ludd_Whitehill,The_Sword_in_the_Darkness,SeenOrMentioned,Mentioned in
+Ludd_Whitehill,A_Nest_of_Vipers,SeenOrMentioned,Mentioned in
+Ludd_Whitehill,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Polliver,What_Is_Dead_May_Never_Die,SeenOrMentioned,First seen
+Polliver,Two_Swords,SeenOrMentioned,Last seen
+Polliver,Two_Swords,SeenOrMentioned,Death shown in episode
+Willem_Lannister,Walk_of_Punishment,SeenOrMentioned,First seen
+Willem_Lannister,Kissed_by_Fire,SeenOrMentioned,Last seen
+Willem_Lannister,Kissed_by_Fire,SeenOrMentioned,Death shown in episode
+Martyn_Lannister,Walk_of_Punishment,SeenOrMentioned,First seen
+Martyn_Lannister,Kissed_by_Fire,SeenOrMentioned,Last seen
+Martyn_Lannister,Kissed_by_Fire,SeenOrMentioned,Death shown in episode
+Alton_Lannister,The_North_Remembers,SeenOrMentioned,First seen
+Alton_Lannister,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Alton_Lannister,The_Mountain_and_the_Viper,SeenOrMentioned,Mentioned in
+Alton_Lannister,Home,SeenOrMentioned,Mentioned in
+Alton_Lannister,A_Man_Without_Honor,SeenOrMentioned,Death shown in episode
+Stafford_Lannister,Garden_of_Bones,SeenOrMentioned,Mentioned in
+Stafford_Lannister,Garden_of_Bones,SeenOrMentioned,Death shown in episode
+Joanna_Lannister,The_Night_Lands,SeenOrMentioned,Mentioned in
+Joanna_Lannister,Blackwater,SeenOrMentioned,Mentioned in
+Joanna_Lannister,Second_Sons_(episode),SeenOrMentioned,Mentioned in
+Joanna_Lannister,Hardhome_(episode),SeenOrMentioned,Mentioned in
+Joanna_Lannister,The_Red_Woman,SeenOrMentioned,Mentioned in
+Marillion,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Marillion,Fire_and_Blood,SeenOrMentioned,Last seen
+Gared%27s_sister,Iron_From_Ice,SeenOrMentioned,Appeared in
+Gared%27s_sister,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Gared%27s_father,Iron_From_Ice,SeenOrMentioned,Appeared in
+Gared%27s_father,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Thermund,Iron_From_Ice,SeenOrMentioned,Appeared in
+Thermund,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Norren,Iron_From_Ice,SeenOrMentioned,First seen
+Norren,Iron_From_Ice,SeenOrMentioned,Last seen
+Lady_Crane,The_Door,SeenOrMentioned,First seen
+Lady_Crane,No_One,SeenOrMentioned,Last seen
+Lady_Crane,No_One,SeenOrMentioned,Death shown in episode
+Mord,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Mord,A_Golden_Crown,SeenOrMentioned,Last seen
+Lothor_Brune,The_North_Remembers,SeenOrMentioned,Appeared in
+Willem_Frey,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Willem_Frey,"Dark_Wings,_Dark_Words",SeenOrMentioned,Mentioned in
+Robett_Glover,The_Broken_Man,SeenOrMentioned,First seen
+Harrion_Karstark,The_Prince_of_Winterfell,SeenOrMentioned,Mentioned in
+Harrion_Karstark,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Harrion_Karstark,The_Climb,SeenOrMentioned,Mentioned in
+Baratheon_(son_of_Robert),The_Kingsroad,SeenOrMentioned,Mentioned in
+Baratheon_(son_of_Robert),The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Tysha,Baelor,SeenOrMentioned,Mentioned in
+Tysha,The_Prince_of_Winterfell,SeenOrMentioned,Mentioned in
+Tysha,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Tysha,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Mentioned in
+The_Tickler,Garden_of_Bones,SeenOrMentioned,First seen
+The_Tickler,The_Ghost_of_Harrenhal,SeenOrMentioned,Last seen
+The_Tickler,The_Ghost_of_Harrenhal,SeenOrMentioned,Death shown in episode
+Weasel,Garden_of_Bones,SeenOrMentioned,Appeared in
+Innkeeper%27s_daughter,Two_Swords,SeenOrMentioned,Appeared in
+Lord_of_Bones,The_Prince_of_Winterfell,SeenOrMentioned,First seen
+Lord_of_Bones,Hardhome_(episode),SeenOrMentioned,Last seen
+Lord_of_Bones,Hardhome_(episode),SeenOrMentioned,Death shown in episode
+Ros,Winter_Is_Coming,SeenOrMentioned,First seen
+Ros,The_Climb,SeenOrMentioned,Last seen
+Ros,The_Climb,SeenOrMentioned,Death shown in episode
+Dontos_Hollard,The_North_Remembers,SeenOrMentioned,First seen
+Dontos_Hollard,Breaker_of_Chains,SeenOrMentioned,Last seen
+Dontos_Hollard,Breaker_of_Chains,SeenOrMentioned,Death shown in episode
+Tourney_Herald,The_North_Remembers,SeenOrMentioned,Appeared in
+Hugh,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Hugh,The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Hugh,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Death shown in episode
+Ryger_Rivers,Baelor,SeenOrMentioned,Appeared in
+Talbot,Mhysa,SeenOrMentioned,Mentioned in
+Waldron_Frey,Baelor,SeenOrMentioned,Mentioned in
+Malcolm,Mhysa,SeenOrMentioned,Mentioned in
+Joyeuse_Frey,Baelor,SeenOrMentioned,First seen
+Joyeuse_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Joyeuse_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Tully_(son_of_Edmure),No_One,SeenOrMentioned,Mentioned in
+Tully_(son_of_Edmure),The_Winds_of_Winter,SeenOrMentioned,Mentioned in
+Kitty_Frey,Blood_of_My_Blood,SeenOrMentioned,First seen
+Frey_soldier_1,Mhysa,SeenOrMentioned,Appeared in
+Frey_soldier_1,Mhysa,SeenOrMentioned,Death shown in episode
+Lannister_messenger,The_Pointy_End,SeenOrMentioned,Appeared in
+Lannister_scout,The_Pointy_End,SeenOrMentioned,Appeared in
+Lannister_spearman,The_Spoils_of_War,SeenOrMentioned,Appeared in
+Lannister_soldier_3_(Dragonstone),Dragonstone_(episode),SeenOrMentioned,Appeared in
+Lannister_soldier_1_(Dragonstone),Dragonstone_(episode),SeenOrMentioned,Appeared in
+Lannister_soldier_(No_One),No_One,SeenOrMentioned,Appeared in
+Lannister_captain_(Home),Home,SeenOrMentioned,Appeared in
+Melara_Hetherspoon,The_Wars_To_Come,SeenOrMentioned,Appeared in
+Knight_of_House_Frey,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Appeared in
+Lannister_guard_2,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Lannister_soldier_2_(The_Dragon_and_the_Wolf),The_Dragon_and_the_Wolf,SeenOrMentioned,Appeared in
+Musician_3_(The_Lion_and_the_Rose),The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Musician_2_(The_Lion_and_the_Rose),The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Musician_1_(The_Lion_and_the_Rose),The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Maekar_Targaryen,Baelor,SeenOrMentioned,Mentioned in
+Daemon_II_Blackfyre,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Rat_Cook,Mhysa,SeenOrMentioned,Mentioned in
+Jaremy_Mallister,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Adrack_Humble,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Adrack_Humble,The_Mountain_and_the_Viper,SeenOrMentioned,Death shown in episode
+Baelor_Targaryen,Baelor,SeenOrMentioned,Mentioned in
+Baelor_Targaryen,The_Lion_and_the_Rose,SeenOrMentioned,Mentioned in
+Baelor_Targaryen,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Baelor_Targaryen,The_Gift_(episode),SeenOrMentioned,Mentioned in
+Daeron_Targaryen_(son_of_Aegon_V),Oathkeeper,SeenOrMentioned,Mentioned in
+Shiera_Seastar,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Naerys_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Rhaego,Valar_Morghulis,SeenOrMentioned,Appeared in
+Rhaego,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Rhaego,Fire_and_Blood,SeenOrMentioned,Death shown in episode
+Jhiqui,The_Kingsroad,SeenOrMentioned,Appeared in
+Loboda,Hardhome_(episode),SeenOrMentioned,Appeared in
+Loboda,Hardhome_(episode),SeenOrMentioned,Death shown in episode
+Karsi,Hardhome_(episode),SeenOrMentioned,Appeared in
+Karsi,Hardhome_(episode),SeenOrMentioned,Death shown in episode
+Denner,The_Lost_Lords,SeenOrMentioned,First seen
+Denner,Sons_of_Winter,SeenOrMentioned,Last seen
+Wun_Weg_Wun_Dar_Wun,Hardhome_(episode),SeenOrMentioned,First seen
+Willa,Hardhome_(episode),SeenOrMentioned,First seen
+Johnna,Hardhome_(episode),SeenOrMentioned,First seen
+White_Walker_(Hardhome),Hardhome_(episode),SeenOrMentioned,Appeared in
+Styr,Two_Swords,SeenOrMentioned,First seen
+Styr,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Styr,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Unnamed_miller%27s_wife,Mhysa,SeenOrMentioned,Mentioned in
+Unnamed_miller%27s_wife,Kill_the_Boy,SeenOrMentioned,Mentioned in
+Captain%27s_daughter,The_Night_Lands,SeenOrMentioned,Appeared in
+Qotho,Winter_Is_Coming,SeenOrMentioned,First seen
+Qotho,Baelor,SeenOrMentioned,Last seen
+Qotho,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Mentioned in
+Qotho,Baelor,SeenOrMentioned,Death shown in episode
+Smalljon_Umber,Oathbreaker,SeenOrMentioned,First seen
+Dongo,Valar_Dohaeris,SeenOrMentioned,First seen
+Dongo,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Dongo,The_Children,SeenOrMentioned,Last seen
+Dongo,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Orell,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Orell,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Orell,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Thenn_warg,Two_Swords,SeenOrMentioned,First seen
+Thenn_warg,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Thenn_warg,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Malko,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,First seen
+Mago,Winter_Is_Coming,SeenOrMentioned,First seen
+Mago,The_Pointy_End,SeenOrMentioned,Last seen
+Mago,The_Pointy_End,SeenOrMentioned,Death shown in episode
+Haggo,Winter_Is_Coming,SeenOrMentioned,First seen
+Haggo,Baelor,SeenOrMentioned,Last seen
+Cohollo,Winter_Is_Coming,SeenOrMentioned,First seen
+Cohollo,Baelor,SeenOrMentioned,Last seen
+Valyrian_sword_smith,Two_Swords,SeenOrMentioned,Appeared in
+Tommy,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Sylvi,Sons_of_Winter,SeenOrMentioned,First seen
+Cedric_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Maynard_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Morgana_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Emilia_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Finn_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Kear_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Brandon_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Leaf,The_Children,SeenOrMentioned,First seen
+Leaf,The_Door,SeenOrMentioned,Last seen
+Leaf,Blood_of_My_Blood,SeenOrMentioned,Last seen
+Leaf,The_Door,SeenOrMentioned,Death shown in episode
+Three-Eyed_Raven,The_Children,SeenOrMentioned,First seen
+Three-Eyed_Raven,The_Door,SeenOrMentioned,Last seen
+Three-Eyed_Raven,The_Door,SeenOrMentioned,Death shown in episode
+Jhaqo,The_Night_Lands,SeenOrMentioned,Mentioned in
+Lyonel_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Tobho_Mott,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Tobho_Mott,The_North_Remembers,SeenOrMentioned,Last seen
+Axel_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Katrina_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Hollys_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Old_man,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Old_man,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Mychal_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Moro,The_Red_Woman,SeenOrMentioned,First seen
+Moro,Book_of_the_Stranger,SeenOrMentioned,Last seen
+Moro,Book_of_the_Stranger,SeenOrMentioned,Death shown in episode
+Pono,The_Night_Lands,SeenOrMentioned,Mentioned in
+Jenny_of_Oldstones,Eastwatch,SeenOrMentioned,Mentioned in
+Sissy,Oathkeeper,SeenOrMentioned,First seen
+Monica_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Argella_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Petra_Tallhart,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Tyrek_Tallhart,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Red_Priestess_(High_Sparrow),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Medger_Cerwyn,High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Cleos_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Vivian_Cerwyn,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Munkun,The_Dance_of_Dragons,SeenOrMentioned,Mentioned in
+High_Priestess_of_the_Dosh_Khaleen,Oathbreaker,SeenOrMentioned,First seen
+Moro%27s_bloodrider_2,The_Red_Woman,SeenOrMentioned,First seen
+Moro%27s_bloodrider_2,Book_of_the_Stranger,SeenOrMentioned,Last seen
+Aggo_(The_Red_Woman),The_Red_Woman,SeenOrMentioned,First seen
+Aggo_(The_Red_Woman),Book_of_the_Stranger,SeenOrMentioned,Last seen
+Cleon,First_of_His_Name,SeenOrMentioned,Mentioned in
+Craster%27s_wife_3_(Oathkeeper),Oathkeeper,SeenOrMentioned,Appeared in
+Craster%27s_wife_2_(Oathkeeper),Oathkeeper,SeenOrMentioned,Appeared in
+High_Priest_of_R%27hllor,The_Climb,SeenOrMentioned,Mentioned in
+Wylla,The_Kingsroad,SeenOrMentioned,Mentioned in
+Dothraki_crone,A_Golden_Crown,SeenOrMentioned,Appeared in
+Ornela,Oathbreaker,SeenOrMentioned,First seen
+Savo,Oathbreaker,SeenOrMentioned,Mentioned in
+Byron_Swann,The_Dance_of_Dragons,SeenOrMentioned,Mentioned in
+Beric_Dayne,Two_Swords,SeenOrMentioned,Mentioned in
+Marlin_Dormund,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Mazin_(Lord),Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Errold_Holt,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Hallis_Mollen,The_Kingsroad,SeenOrMentioned,Mentioned in
+Marya_Seaworth,The_Night_Lands,SeenOrMentioned,Mentioned in
+Marya_Seaworth,Garden_of_Bones,SeenOrMentioned,Mentioned in
+Marya_Seaworth,Valar_Dohaeris,SeenOrMentioned,Mentioned in
+Selwyn_Tarth,What_Is_Dead_May_Never_Die,SeenOrMentioned,Mentioned in
+Selwyn_Tarth,Walk_of_Punishment,SeenOrMentioned,Mentioned in
+Selwyn_Tarth,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Mentioned in
+Selwyn_Tarth,The_Lion_and_the_Rose,SeenOrMentioned,Mentioned in
+Selwyn_Tarth,The_Children,SeenOrMentioned,Mentioned in
+Selwyn_Tarth,High_Sparrow_(episode),SeenOrMentioned,Mentioned in
+Selwyn_Tarth,No_One,SeenOrMentioned,Mentioned in
+Corlys_Wells,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Caulfield_(Lady),Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Aggo_(The_North_Remembers),The_North_Remembers,SeenOrMentioned,Appeared in
+Iggo,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Craster%27s_younger_wife_(Walk_of_Punishment),Walk_of_Punishment,SeenOrMentioned,Appeared in
+Craster%27s_wife_(Walk_of_Punishment),Walk_of_Punishment,SeenOrMentioned,Appeared in
+Craster%27s_last_son,Oathkeeper,SeenOrMentioned,First seen
+Craster%27s_last_son,Blood_of_My_Blood,SeenOrMentioned,Last seen
+Morag,Oathkeeper,SeenOrMentioned,First seen
+White_Walker_(The_Door),The_Door,SeenOrMentioned,Appeared in
+White_Walker_(The_Door),The_Door,SeenOrMentioned,Death shown in episode
+Archmaester_(Eastwatch),Eastwatch,SeenOrMentioned,Appeared in
+Moro%27s_bloodrider_1,The_Red_Woman,SeenOrMentioned,First seen
+Moro%27s_bloodrider_1,Book_of_the_Stranger,SeenOrMentioned,Last seen
+The_Harpy,The_Red_Woman,SeenOrMentioned,Mentioned in
+Moro%27s_wife_2,The_Red_Woman,SeenOrMentioned,First seen
+Moro%27s_wife_1,The_Red_Woman,SeenOrMentioned,Appeared in
+Ethelide_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Theresa_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Corin_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Joseth_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Gareth_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Deziel_Dalt,Two_Swords,SeenOrMentioned,Appeared in
+Blackmont_(Lord),Two_Swords,SeenOrMentioned,First seen
+Brozho,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Rhalko,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Rhalko,Book_of_the_Stranger,SeenOrMentioned,Death shown in episode
+Lucan_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Mycah_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Craster,The_North_Remembers,SeenOrMentioned,First seen
+Craster,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Last seen
+Craster,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Death shown in episode
+Forzho,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Forzho,Book_of_the_Stranger,SeenOrMentioned,Death shown in episode
+Qorro,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Morag_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Harkon_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Daragh_Umber,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Amarylis_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Hothor_Umber,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Ned_Umber,Dragonstone_(episode),SeenOrMentioned,First seen
+White_Walker_(Oathkeeper),Oathkeeper,SeenOrMentioned,First seen
+White_Walker_(Valar_Morghulis),Valar_Morghulis,SeenOrMentioned,First seen
+White_Walker_(Valar_Morghulis),Second_Sons_(episode),SeenOrMentioned,Last seen
+White_Walker_(Valar_Morghulis),Second_Sons_(episode),SeenOrMentioned,Death shown in episode
+White_Walker_(The_Night_Lands),The_Night_Lands,SeenOrMentioned,Appeared in
+Mycah,The_Kingsroad,SeenOrMentioned,Appeared in
+Mycah,The_Children,SeenOrMentioned,Mentioned in
+Mycah,The_Kingsroad,SeenOrMentioned,Death shown in episode
+White_Walker_(Winter_Is_Coming),Winter_Is_Coming,SeenOrMentioned,Appeared in
+Oznak_zo_Pahl,Breaker_of_Chains,SeenOrMentioned,Appeared in
+Prendahl_na_Ghezn,Second_Sons_(episode),SeenOrMentioned,Appeared in
+Prendahl_na_Ghezn,Second_Sons_(episode),SeenOrMentioned,Death shown in episode
+Greizhen_mo_Ullhor,Walk_of_Punishment,SeenOrMentioned,First seen
+Greizhen_mo_Ullhor,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Last seen
+Greizhen_mo_Ullhor,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Death shown in episode
+Wildling_girl,Winter_Is_Coming,SeenOrMentioned,First seen
+Wildling_girl,The_Lion_and_the_Rose,SeenOrMentioned,Last seen
+Wildling_girl,Winter_Is_Coming,SeenOrMentioned,Death shown in episode
+Yunkai%27i_whore,Second_Sons_(episode),SeenOrMentioned,Appeared in
+Mero,Second_Sons_(episode),SeenOrMentioned,Appeared in
+Mero,Second_Sons_(episode),SeenOrMentioned,Death shown in episode
+Viola_Redwyne,Oathkeeper,SeenOrMentioned,Mentioned in
+Viserys_II_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Lomas_Longstrider,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Aegon_III_Targaryen,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Mirri_Maz_Duur,The_Pointy_End,SeenOrMentioned,First seen
+Mirri_Maz_Duur,Fire_and_Blood,SeenOrMentioned,Last seen
+Mirri_Maz_Duur,The_Dragon_and_the_Wolf,SeenOrMentioned,Mentioned in
+Mirri_Maz_Duur,Fire_and_Blood,SeenOrMentioned,Death shown in episode
+Daemon_I_Blackfyre,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Samwell_Stone,The_Wars_To_Come,SeenOrMentioned,Appeared in
+Kaeth,The_Lion_and_the_Rose,SeenOrMentioned,Mentioned in
+Daena_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Aemon_Blackfyre,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Aegon_Blackfyre,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Serena_Blackfyre,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Aelinor_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Baelor_Targaryen_(son_of_Daeron_II),A_Golden_Crown,SeenOrMentioned,Mentioned in
+Dyanna_Dayne,The_Gift_(episode),SeenOrMentioned,Mentioned in
+Aegon_Targaryen_(son_of_Rhaegar_and_Elia),And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Damon_Marbrand,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Ralf_Kenning,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Ralf_Kenning,The_Mountain_and_the_Viper,SeenOrMentioned,Death shown in episode
+Orys_I,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Harrag,Stormborn,SeenOrMentioned,First seen
+Urzen,Valar_Morghulis,SeenOrMentioned,Appeared in
+Aggar,Valar_Morghulis,SeenOrMentioned,Mentioned in
+Stygg,Valar_Morghulis,SeenOrMentioned,Appeared in
+Gelmarr,Valar_Morghulis,SeenOrMentioned,Appeared in
+Alannys_Greyjoy,The_Prince_of_Winterfell,SeenOrMentioned,Mentioned in
+Maron_Greyjoy,The_Night_Lands,SeenOrMentioned,Mentioned in
+Rodrik_Greyjoy,The_Night_Lands,SeenOrMentioned,Mentioned in
+Minisa_Tully,The_Ghost_of_Harrenhal,SeenOrMentioned,Mentioned in
+Bolton_soldier_(Walk_of_Punishment),Walk_of_Punishment,SeenOrMentioned,Appeared in
+Mole%27s_Town_whore,Breaker_of_Chains,SeenOrMentioned,First seen
+Mole%27s_Town_whore,The_Mountain_and_the_Viper,SeenOrMentioned,Last seen
+Mole%27s_Town_whore,The_Mountain_and_the_Viper,SeenOrMentioned,Death shown in episode
+Harren_Hoare,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Eon_Hunter,A_Golden_Crown,SeenOrMentioned,Appeared in
+Jon_Lynderly,A_Golden_Crown,SeenOrMentioned,Appeared in
+Lannister_guard_1,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Morgan%27s_friend,Two_Swords,SeenOrMentioned,Appeared in
+Morgan_(Two_Swords),Two_Swords,SeenOrMentioned,Appeared in
+Lannister_soldier_(The_Prince_of_Winterfell),The_Prince_of_Winterfell,SeenOrMentioned,Appeared in
+Lannister_torturer,The_Prince_of_Winterfell,SeenOrMentioned,Appeared in
+Wounded_Lannister,Garden_of_Bones,SeenOrMentioned,Appeared in
+Lannister_guardsman_(Garden_of_Bones),Garden_of_Bones,SeenOrMentioned,Appeared in
+Lannister_guardsman_(Garden_of_Bones),Garden_of_Bones,SeenOrMentioned,Death shown in episode
+Rennick,Garden_of_Bones,SeenOrMentioned,Appeared in
+Rennick,Garden_of_Bones,SeenOrMentioned,Death shown in episode
+Willis_Wode,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Willis_Wode,The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Willis_Wode,The_Wolf_and_the_Lion,SeenOrMentioned,Death shown in episode
+Lannister_guardsman_(The_Kingsroad),The_Kingsroad,SeenOrMentioned,Appeared in
+Walter_Whent,Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Frey_soldier_2,Mhysa,SeenOrMentioned,Appeared in
+Frey_soldier_2,Mhysa,SeenOrMentioned,Death shown in episode
+Roslin_Tully,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Roslin_Tully,No_One,SeenOrMentioned,Mentioned in
+Stevron_Frey,Baelor,SeenOrMentioned,Appeared in
+Bolton_man_2,And_Now_His_Watch_Is_Ended,SeenOrMentioned,First seen
+Bolton_man_2,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Last seen
+Bolton_guard_(The_Laws_of_Gods_and_Men),The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+Bolton_guard_(The_Laws_of_Gods_and_Men),The_Laws_of_Gods_and_Men,SeenOrMentioned,Death shown in episode
+Bolton_soldier_1,And_Now_His_Watch_Is_Ended,SeenOrMentioned,First seen
+Bolton_soldier_1,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Last seen
+Tom,Valar_Morghulis,SeenOrMentioned,Appeared in
+Tom,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Dim_Dalba,Hardhome_(episode),SeenOrMentioned,First seen
+Kurleket,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Kurleket,The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Kurleket,The_Wolf_and_the_Lion,SeenOrMentioned,Death shown in episode
+Lannister_bannerman_3_(The_Ghost_of_Harrenhal),The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Lannister_bannerman_3_(The_Ghost_of_Harrenhal),Second_Sons_(episode),SeenOrMentioned,Last seen
+Lannister_bannerman_2_(The_Ghost_of_Harrenhal),Fire_and_Blood,SeenOrMentioned,First seen
+Lannister_bannerman_2_(The_Ghost_of_Harrenhal),Second_Sons_(episode),SeenOrMentioned,Last seen
+Lannister_bannerman_1_(The_Ghost_of_Harrenhal),The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Lannister_bannerman_1_(The_Ghost_of_Harrenhal),First_of_His_Name,SeenOrMentioned,Last seen
+Reginald_Lannister,The_Ghost_of_Harrenhal,SeenOrMentioned,Appeared in
+Theomar_Smallwood,Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Mhaegen,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Mhaegen,The_North_Remembers,SeenOrMentioned,Last seen
+Daisy,The_North_Remembers,SeenOrMentioned,First seen
+Stark_soldier_(Valar_Morghulis),Valar_Morghulis,SeenOrMentioned,Appeared in
+Stark_soldier_(Valar_Morghulis),Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Armeca,You_Win_or_You_Die,SeenOrMentioned,First seen
+Armeca,Blackwater,SeenOrMentioned,Last seen
+Wyllis_Bracken,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Symun_Fossoway,Blood_of_My_Blood,SeenOrMentioned,Mentioned in
+Garibald_Tarwick,The_Sword_in_the_Darkness,SeenOrMentioned,First seen
+Lollys_Stokeworth,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Lollys_Stokeworth,Mockingbird,SeenOrMentioned,Mentioned in
+Cassana_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Jon_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Laurence_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Petyr_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Berrican_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Barra,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Barra,The_North_Remembers,SeenOrMentioned,Last seen
+Barra,The_North_Remembers,SeenOrMentioned,Death shown in episode
+Melessa_Tarly,Blood_of_My_Blood,SeenOrMentioned,Appeared in
+Melessa_Tarly,What_Is_Dead_May_Never_Die,SeenOrMentioned,Mentioned in
+Talla_Tarly,Blood_of_My_Blood,SeenOrMentioned,Appeared in
+Regan_Karstark,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Vance_Corbray,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Varly,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Varly,You_Win_or_You_Die,SeenOrMentioned,Death shown in episode
+Ashford_(Lord),Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Stark_messenger,The_Prince_of_Winterfell,SeenOrMentioned,Appeared in
+Stark_guard_(A_Man_Without_Honor),A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Stark_guard_(Fire_and_Blood),Fire_and_Blood,SeenOrMentioned,Appeared in
+Stark_guard_(The_Pointy_End),The_Pointy_End,SeenOrMentioned,Appeared in
+Tomard,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Mara_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Beric_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Falyse_Stokeworth,Mockingbird,SeenOrMentioned,Mentioned in
+Tanda_Stokeworth,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Stokeworth_(Lord),Mockingbird,SeenOrMentioned,Mentioned in
+Tommard_Karstark,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Wex,Valar_Morghulis,SeenOrMentioned,Mentioned in
+Hallyne,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Rylene_Florent,Mhysa,SeenOrMentioned,Mentioned in
+Royal_Steward,Lord_Snow,SeenOrMentioned,First seen
+Royal_Steward,The_Pointy_End,SeenOrMentioned,Last seen
+Anya_Waynwood,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Cley_Cerwyn,The_Winds_of_Winter,SeenOrMentioned,Appeared in
+Cley_Cerwyn,High_Sparrow_(episode),SeenOrMentioned,Mentioned in
+Waldra_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Walda_Frey_(The_Rains_of_Castamere),The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Serra_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Gyles_Rosby,Fire_and_Blood,SeenOrMentioned,Last seen
+Sarra_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Shirei_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Neyela_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Janeya_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Freya_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Derwa_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Merry_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,First seen
+Marianne_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,First seen
+Arwaya_Frey,Baelor,SeenOrMentioned,First seen
+Arwaya_Frey,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Dwarf_5,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Dwarf_4,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Dwarf_3,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Donnel_Waynwood,First_of_His_Name,SeenOrMentioned,First seen
+Jonquil,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Dwarf_2,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Riverlands_traveller,"Dark_Wings,_Dark_Words",SeenOrMentioned,Appeared in
+Leo_Lefford,Baelor,SeenOrMentioned,First seen
+Leo_Lefford,Fire_and_Blood,SeenOrMentioned,Last seen
+Alys_Karstark,Dragonstone_(episode),SeenOrMentioned,First seen
+Harald_Karstark,Home,SeenOrMentioned,First seen
+Erena_Glover,The_Broken_Man,SeenOrMentioned,Mentioned in
+Gawen_Glover,The_Broken_Man,SeenOrMentioned,Mentioned in
+Sybelle_Glover,The_Broken_Man,SeenOrMentioned,Mentioned in
+Clarenzo,The_Door,SeenOrMentioned,First seen
+Walda_Frey_(grandniece_of_Lord_Walder),Baelor,SeenOrMentioned,Mentioned in
+Thin_man,Hardhome_(episode),SeenOrMentioned,First seen
+Bianca,The_Door,SeenOrMentioned,First seen
+Bianca,Blood_of_My_Blood,SeenOrMentioned,Last seen
+Izembaro,The_Door,SeenOrMentioned,First seen
+Bobono,The_Door,SeenOrMentioned,First seen
+Smiling_Knight,Two_Swords,SeenOrMentioned,Mentioned in
+Simon_Toyne,Lord_Snow,SeenOrMentioned,Mentioned in
+Bowen,Iron_From_Ice,SeenOrMentioned,First seen
+Bowen,Iron_From_Ice,SeenOrMentioned,Last seen
+Bowen,The_Ice_Dragon,SeenOrMentioned,Last seen
+Bowen,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Bowen,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Mummer_3,The_Door,SeenOrMentioned,First seen
+Brusco,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Mummer_2,The_Door,SeenOrMentioned,First seen
+Mummer_1,The_Door,SeenOrMentioned,First seen
+Musician_5_(The_Door),The_Door,SeenOrMentioned,First seen
+Musician_4_(The_Door),The_Door,SeenOrMentioned,First seen
+Dolf,The_Pointy_End,SeenOrMentioned,Mentioned in
+Ulf,Baelor,SeenOrMentioned,Mentioned in
+Musician_3_(The_Door),The_Door,SeenOrMentioned,First seen
+Musician_2_(The_Door),The_Door,SeenOrMentioned,First seen
+Musician_1_(The_Door),The_Door,SeenOrMentioned,First seen
+Mummer_(Margaery_Tyrell),The_Door,SeenOrMentioned,First seen
+Camello,The_Door,SeenOrMentioned,First seen
+Camello,Blood_of_My_Blood,SeenOrMentioned,Last seen
+Vardis_Egen,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Vardis_Egen,A_Golden_Crown,SeenOrMentioned,Last seen
+Vardis_Egen,A_Golden_Crown,SeenOrMentioned,Death shown in episode
+Chella,The_Pointy_End,SeenOrMentioned,First seen
+Chella,The_North_Remembers,SeenOrMentioned,Last seen
+Timett,The_Pointy_End,SeenOrMentioned,First seen
+Timett,What_Is_Dead_May_Never_Die,SeenOrMentioned,Last seen
+Shagga,The_Pointy_End,SeenOrMentioned,First seen
+Shagga,Baelor,SeenOrMentioned,Last seen
+Lhara,The_Laws_of_Gods_and_Men,SeenOrMentioned,First seen
+Brea,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Gunthor,Baelor,SeenOrMentioned,Mentioned in
+Joss_Stilwood,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Cheyk,The_Pointy_End,SeenOrMentioned,Mentioned in
+Fegg,The_Lost_Lords,SeenOrMentioned,Appeared in
+Innkeeper,Two_Swords,SeenOrMentioned,Appeared in
+Lowell,Two_Swords,SeenOrMentioned,Appeared in
+Stableboy,The_Pointy_End,SeenOrMentioned,Appeared in
+Bathhouse_prostitute,The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+Ilyn_Payne,The_Kingsroad,SeenOrMentioned,First seen
+Ilyn_Payne,The_North_Remembers,SeenOrMentioned,Mentioned in
+Ilyn_Payne,Garden_of_Bones,SeenOrMentioned,Mentioned in
+Ilyn_Payne,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Ilyn_Payne,First_of_His_Name,SeenOrMentioned,Mentioned in
+Ilyn_Payne,The_Children,SeenOrMentioned,Mentioned in
+Eldrick_Sarsfield,Mhysa,SeenOrMentioned,Appeared in
+Cedric_Forrester,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Gerhard_Forrester,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Braavosi_madam,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Desmond_Crakehall,Mhysa,SeenOrMentioned,Appeared in
+Braavosi_prostitute,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Thorren_Forrester,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Malcolm_Branfield,Iron_From_Ice,SeenOrMentioned,First seen
+Malcolm_Branfield,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Eglantine,The_North_Remembers,SeenOrMentioned,First seen
+Eglantine,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Masha_Heddle,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Appeared in
+Lommy,Fire_and_Blood,SeenOrMentioned,First seen
+Lommy,What_Is_Dead_May_Never_Die,SeenOrMentioned,Last seen
+Lommy,What_Is_Dead_May_Never_Die,SeenOrMentioned,Death shown in episode
+Dying_man,Mockingbird,SeenOrMentioned,Appeared in
+Dying_man,Mockingbird,SeenOrMentioned,Death shown in episode
+Aya,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Croft,The_Sword_in_the_Darkness,SeenOrMentioned,First seen
+Croft,The_Lost_Lords,SeenOrMentioned,Mentioned in
+Talia_Branfield,Iron_From_Ice,SeenOrMentioned,Mentioned in
+Branfield_(Lord),Iron_From_Ice,SeenOrMentioned,Mentioned in
+Branfield_(Lord),The_Lost_Lords,SeenOrMentioned,Mentioned in
+Anara,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Bryan,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Prisoner,The_Ice_Dragon,SeenOrMentioned,Appeared in
+Prisoner,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Lucan_(Telltale),The_Lost_Lords,SeenOrMentioned,First seen
+Godwyn,The_Ice_Dragon,SeenOrMentioned,Mentioned in
+Damien,The_Lost_Lords,SeenOrMentioned,Appeared in
+Damien,The_Lost_Lords,SeenOrMentioned,Death shown in episode
+Tom_(Telltale),Iron_From_Ice,SeenOrMentioned,First seen
+Tom_(Telltale),The_Ice_Dragon,SeenOrMentioned,Last seen
+Tom_(Telltale),The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Whore_(The_Stranger),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Whore_(Mother_of_Dragons),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Daeron_I_Targaryen,The_Lion_and_the_Rose,SeenOrMentioned,Mentioned in
+Bezzaq,The_Lost_Lords,SeenOrMentioned,Appeared in
+Bezzaq,The_Lost_Lords,SeenOrMentioned,Death shown in episode
+Dezhor_zo_Raza,Sons_of_Winter,SeenOrMentioned,First seen
+Dezhor_zo_Raza,Sons_of_Winter,SeenOrMentioned,Last seen
+Kieran,Sons_of_Winter,SeenOrMentioned,First seen
+Penn,Sons_of_Winter,SeenOrMentioned,First seen
+Therrond,Sons_of_Winter,SeenOrMentioned,First seen
+Therrond,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Nail,Sons_of_Winter,SeenOrMentioned,Appeared in
+Rhogar,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Tazal,The_Lost_Lords,SeenOrMentioned,Appeared in
+Tazal,The_Lost_Lords,SeenOrMentioned,Death shown in episode
+Tazal,The_Sword_in_the_Darkness,SeenOrMentioned,Death shown in episode
+Jodan,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Clea,High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Josera_Snow,The_Ice_Dragon,SeenOrMentioned,Appeared in
+Gregor_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Gregor_Forrester,Iron_From_Ice,SeenOrMentioned,Last seen
+Gregor_Forrester,The_Lost_Lords,SeenOrMentioned,Last seen
+Gregor_Forrester,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Torrhen_Whitehill,Sons_of_Winter,SeenOrMentioned,Mentioned in
+Whitehill_soldier_1,The_Lost_Lords,SeenOrMentioned,First seen
+Whitehill_soldier_1,The_Ice_Dragon,SeenOrMentioned,Last seen
+Rickard_Morgryn,The_Lost_Lords,SeenOrMentioned,First seen
+Ethan_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Ethan_Forrester,Iron_From_Ice,SeenOrMentioned,Last seen
+Ethan_Forrester,The_Lost_Lords,SeenOrMentioned,Last seen
+Ethan_Forrester,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+Andros,The_Lost_Lords,SeenOrMentioned,First seen
+Andros,The_Ice_Dragon,SeenOrMentioned,Last seen
+Andros,A_Nest_of_Vipers,SeenOrMentioned,Mentioned in
+Andros,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Ebbert_Whitehill,Sons_of_Winter,SeenOrMentioned,Mentioned in
+Karl_Whitehill,Sons_of_Winter,SeenOrMentioned,Mentioned in
+Arthur_Glenmore,Sons_of_Winter,SeenOrMentioned,First seen
+Arthur_Glenmore,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Arthur_Glenmore,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Glenmore_(Lord),The_Lost_Lords,SeenOrMentioned,Mentioned in
+Glenmore_(Lord),Sons_of_Winter,SeenOrMentioned,Mentioned in
+Glenmore_(Lord),A_Nest_of_Vipers,SeenOrMentioned,Mentioned in
+Whitehill_(Lady),Sons_of_Winter,SeenOrMentioned,Mentioned in
+Rhaenys_Targaryen_(sister_of_Aegon_I),A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Rhaegel_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Aerys_I_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Ternesio_Terys,The_Children,SeenOrMentioned,First seen
+Orys_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Aenys_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Areo_Hotah,The_House_of_Black_and_White,SeenOrMentioned,First seen
+Areo_Hotah,The_Red_Woman,SeenOrMentioned,Last seen
+Areo_Hotah,The_Red_Woman,SeenOrMentioned,Death shown in episode
+Maron_Martell,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Myriah_Martell,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Daenerys_Targaryen_(daughter_of_Aegon_IV),A_Golden_Crown,SeenOrMentioned,Mentioned in
+Wineseller,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Wineseller,You_Win_or_You_Die,SeenOrMentioned,Death shown in episode
+Little_Bird_(You_Win_or_You_Die),You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Barbrey_Dustin,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Daemon_Sand,The_Mountain_and_the_Viper,SeenOrMentioned,First seen
+Sam,Walk_of_Punishment,SeenOrMentioned,First seen
+Kyra,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Mentioned in
+Merchant_captain,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Sarella_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Loreza_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Dorea_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Obella_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Elia_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Brynden_Tully,Walk_of_Punishment,SeenOrMentioned,First seen
+Brynden_Tully,No_One,SeenOrMentioned,Last seen
+Aegor_Rivers,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Gold_Cloak_on_the_Kingsroad,The_Night_Lands,SeenOrMentioned,First seen
+Stark_guard_(The_Old_Gods_and_the_New),The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Stark_guard_(The_Old_Gods_and_the_New),A_Man_Without_Honor,SeenOrMentioned,Last seen
+Malakho,The_North_Remembers,SeenOrMentioned,First seen
+Malakho,Valar_Morghulis,SeenOrMentioned,Last seen
+King%27s_Landing_rioter_2,The_Old_Gods_and_the_New,SeenOrMentioned,Appeared in
+King%27s_Landing_rioter_3,The_Old_Gods_and_the_New,SeenOrMentioned,Appeared in
+Lannister_captain,The_Old_Gods_and_the_New,SeenOrMentioned,Appeared in
+King%27s_Landing_rioter_1,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+King%27s_Landing_rioter_1,A_Man_Without_Honor,SeenOrMentioned,Last seen
+King%27s_Landing_rioter_1,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Gold_Cloak_2_(The_Wolf_and_the_Lion),The_Wolf_and_the_Lion,SeenOrMentioned,Appeared in
+Gold_Cloak_1_(The_Wolf_and_the_Lion),The_Wolf_and_the_Lion,SeenOrMentioned,Appeared in
+Gold_Cloak_2_(Lord_Snow),Lord_Snow,SeenOrMentioned,Appeared in
+Gold_Cloak_1_(Lord_Snow),Lord_Snow,SeenOrMentioned,Appeared in
+Shae,Baelor,SeenOrMentioned,First seen
+Shae,The_Children,SeenOrMentioned,Last seen
+Shae,The_Children,SeenOrMentioned,Death shown in episode
+Aron_Santagar,The_Pointy_End,SeenOrMentioned,Appeared in
+Aron_Santagar,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Quent,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Quent,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Jacks,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Jacks,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Irri,The_Kingsroad,SeenOrMentioned,First seen
+Irri,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Irri,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Palla,The_North_Remembers,SeenOrMentioned,First seen
+Palla,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Spice_King,Garden_of_Bones,SeenOrMentioned,First seen
+Spice_King,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Spice_King,A_Man_Without_Honor,SeenOrMentioned,Death shown in episode
+High_Septon_(Before_the_riot_of_King%27s_Landing),Baelor,SeenOrMentioned,First seen
+High_Septon_(Before_the_riot_of_King%27s_Landing),The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+High_Septon_(Before_the_riot_of_King%27s_Landing),The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Lannister_soldier_2_(Dragonstone),Dragonstone_(episode),SeenOrMentioned,Appeared in
+Maegor_Targaryen,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Maegor_Targaryen,The_Ghost_of_Harrenhal,SeenOrMentioned,Mentioned in
+Copper_King,Garden_of_Bones,SeenOrMentioned,First seen
+Copper_King,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Copper_King,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Silk_King,Garden_of_Bones,SeenOrMentioned,First seen
+Silk_King,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Silk_King,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Drennan,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Drennan,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Drennan,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+White_Walker_1_(Beyond_the_Wall),Beyond_the_Wall_(episode),SeenOrMentioned,Appeared in
+White_Walker_1_(Beyond_the_Wall),Beyond_the_Wall_(episode),SeenOrMentioned,Death shown in episode
+Tytos_Lannister,The_Pointy_End,SeenOrMentioned,Mentioned in
+Tytos_Lannister,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Lyman_Lannister,Sons_of_Winter,SeenOrMentioned,Appeared in
+Cynda_Lannister,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Dorna_Lannister,The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Orson_Lannister,The_Mountain_and_the_Viper,SeenOrMentioned,Mentioned in
+Gwyn_Whitehill,The_Lost_Lords,SeenOrMentioned,First seen
+Gwyn_Whitehill,The_Sword_in_the_Darkness,SeenOrMentioned,First seen
+Elissa_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Elissa_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Elissa_Forrester,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Talia_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Talia_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Bloodsong,A_Nest_of_Vipers,SeenOrMentioned,First seen
+Bloodsong,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Bloodsong,The_Ice_Dragon,SeenOrMentioned,Last seen
+Marei,The_North_Remembers,SeenOrMentioned,First seen
+Kayla,Walk_of_Punishment,SeenOrMentioned,First seen
+Genna,Walk_of_Punishment,SeenOrMentioned,Appeared in
+Mirelle,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Harys,The_Sword_in_the_Darkness,SeenOrMentioned,First seen
+Harys,The_Ice_Dragon,SeenOrMentioned,Last seen
+Harys,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Beskha,The_Lost_Lords,SeenOrMentioned,First seen
+Beskha,The_Ice_Dragon,SeenOrMentioned,Last seen
+Amaya,A_Nest_of_Vipers,SeenOrMentioned,First seen
+Amaya,The_Ice_Dragon,SeenOrMentioned,Last seen
+Amaya,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Royland_Degore,Iron_From_Ice,SeenOrMentioned,First seen
+Royland_Degore,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Royland_Degore,The_Ice_Dragon,SeenOrMentioned,Last seen
+Royland_Degore,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Royland_Degore,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Asher_Forrester,The_Lost_Lords,SeenOrMentioned,First seen
+Asher_Forrester,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Asher_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Asher_Forrester,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Duncan_Tuttle,Iron_From_Ice,SeenOrMentioned,First seen
+Duncan_Tuttle,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Duncan_Tuttle,The_Ice_Dragon,SeenOrMentioned,Last seen
+Duncan_Tuttle,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Duncan_Tuttle,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Rodrik_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Rodrik_Forrester,A_Nest_of_Vipers,SeenOrMentioned,Last seen
+Rodrik_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Rodrik_Forrester,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+"Slaver_(Unbowed,_Unbent,_Unbroken)","Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Appeared in
+Whore_(The_Warrior),Breaker_of_Chains,SeenOrMentioned,First seen
+Whore_(Two_Swords),Two_Swords,SeenOrMentioned,Appeared in
+Male_prostitute,The_North_Remembers,SeenOrMentioned,First seen
+Male_prostitute,The_Night_Lands,SeenOrMentioned,Last seen
+The_Scourge,A_Nest_of_Vipers,SeenOrMentioned,Mentioned in
+The_Beast,A_Nest_of_Vipers,SeenOrMentioned,Appeared in
+The_Beast,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Willem,What_Is_Dead_May_Never_Die,SeenOrMentioned,Mentioned in
+Gerald,What_Is_Dead_May_Never_Die,SeenOrMentioned,Appeared in
+Margaery%27s_handmaiden,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Obara_Sand,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Obara_Sand,Stormborn,SeenOrMentioned,Last seen
+Obara_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Obara_Sand,Stormborn,SeenOrMentioned,Death shown in episode
+Tyrell_lady,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Appeared in
+Colen,What_Is_Dead_May_Never_Die,SeenOrMentioned,Appeared in
+Theon%27s_master_of_hounds,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Fury_gunnery_officer,The_Prince_of_Winterfell,SeenOrMentioned,Appeared in
+Ros%27s_dissatisfied_customer,The_Night_Lands,SeenOrMentioned,Appeared in
+Moelle,The_Gift_(episode),SeenOrMentioned,First seen
+Maggy,The_Wars_To_Come,SeenOrMentioned,Appeared in
+Captain_of_the_archers_(House_Lannister),Blackwater,SeenOrMentioned,Appeared in
+Qhono,The_Red_Woman,SeenOrMentioned,First seen
+Unella,The_Gift_(episode),SeenOrMentioned,First seen
+Unella,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Luthor_Tyrell,"Dark_Wings,_Dark_Words",SeenOrMentioned,Mentioned in
+Luthor_Tyrell,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Addam_Marbrand,Fire_and_Blood,SeenOrMentioned,Appeared in
+Addam_Marbrand,The_Pointy_End,SeenOrMentioned,Mentioned in
+Gold_Cloak_2_(Eastwatch),Eastwatch,SeenOrMentioned,Appeared in
+Scolera,The_Gift_(episode),SeenOrMentioned,First seen
+Gold_Cloak_1_(Eastwatch),Eastwatch,SeenOrMentioned,Appeared in
+Sorcerer,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Appeared in
+Mira_Forrester,Iron_From_Ice,SeenOrMentioned,First seen
+Mira_Forrester,The_Ice_Dragon,SeenOrMentioned,Last seen
+Mira_Forrester,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Old_woman,High_Sparrow_(episode),SeenOrMentioned,First seen
+Old_woman,Kill_the_Boy,SeenOrMentioned,Last seen
+Old_woman,The_Gift_(episode),SeenOrMentioned,Last seen
+Old_woman,The_Gift_(episode),SeenOrMentioned,Death shown in episode
+King%27s_Landing_baker,Baelor,SeenOrMentioned,Appeared in
+Joss_(A_Golden_Crown),A_Golden_Crown,SeenOrMentioned,Appeared in
+Night%27s_Watch_Officer_2,You_Win_or_You_Die,SeenOrMentioned,First seen
+Night%27s_Watch_Officer_2,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Last seen
+Allana_Tyrell,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Sera_Durwell,Iron_From_Ice,SeenOrMentioned,First seen
+Alerie_Tyrell,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Mentioned in
+Brotherhood_member,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Brotherhood_member,No_One,SeenOrMentioned,Last seen
+Dickon_Tarly,Blood_of_My_Blood,SeenOrMentioned,First seen
+Dickon_Tarly,Eastwatch,SeenOrMentioned,Last seen
+Rancer,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Allo,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Luke,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Vorkoy,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Echiel,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Joby,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Myk,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Mink,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Joe,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Gordo,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Smitty,The_Watchers_on_the_Wall,SeenOrMentioned,Appeared in
+Smitty,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Niko,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Bannen,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Escan,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Clydas,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Qhorin,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Qhorin,Valar_Morghulis,SeenOrMentioned,Last seen
+Qhorin,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Nelugo,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Paxter_Redwyne,The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Nymeria_Sand,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Nymeria_Sand,Stormborn,SeenOrMentioned,Last seen
+Nymeria_Sand,First_of_His_Name,SeenOrMentioned,Mentioned in
+Nymeria_Sand,Stormborn,SeenOrMentioned,Death shown in episode
+Elia_Martell,Two_Swords,SeenOrMentioned,Mentioned in
+Elia_Martell,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Elia_Martell,First_of_His_Name,SeenOrMentioned,Mentioned in
+Elia_Martell,Mockingbird,SeenOrMentioned,Mentioned in
+Elia_Martell,The_Mountain_and_the_Viper,SeenOrMentioned,Mentioned in
+Elia_Martell,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Elia_Martell,Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Elia_Martell,The_Red_Woman,SeenOrMentioned,Mentioned in
+Wallen,A_Golden_Crown,SeenOrMentioned,Appeared in
+Wallen,A_Golden_Crown,SeenOrMentioned,Death shown in episode
+Stiv,A_Golden_Crown,SeenOrMentioned,Appeared in
+Stiv,A_Golden_Crown,SeenOrMentioned,Death shown in episode
+Bert,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Edric_Baratheon,Kissed_by_Fire,SeenOrMentioned,First seen
+Tommard_Baratheon,Kissed_by_Fire,SeenOrMentioned,First seen
+Petyr_Baratheon,Kissed_by_Fire,SeenOrMentioned,Appeared in
+Pylos,Stormborn,SeenOrMentioned,Mentioned in
+Steffon_Baratheon,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Steffon_Baratheon,Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Violet,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Appeared in
+Violet,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Mentioned in
+Tansy,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Tansy,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Mentioned in
+Tansy,The_Lion_and_the_Rose,SeenOrMentioned,Death shown in episode
+Dareon,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Borcas,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Baratheon_general,The_Dance_of_Dragons,SeenOrMentioned,First seen
+Baratheon_general,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Baratheon_general,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Borba,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Borba,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Harker,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Harker,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Stonesnake,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Stonesnake,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Casper,The_Lost_Lords,SeenOrMentioned,First seen
+Casper,The_Sword_in_the_Darkness,SeenOrMentioned,Last seen
+Elsera_Snow,The_Ice_Dragon,SeenOrMentioned,Appeared in
+Steffon_(turnip_cart_driver),A_Golden_Crown,SeenOrMentioned,First seen
+Protestor,The_Ghost_of_Harrenhal,SeenOrMentioned,Appeared in
+High_Septon_(Robert%27s_Rebellion),The_Dragon_and_the_Wolf,SeenOrMentioned,Appeared in
+High_Septon_(Robert%27s_Rebellion),Eastwatch,SeenOrMentioned,Mentioned in
+Child_of_the_Forest_2_(The_Children),The_Children,SeenOrMentioned,Appeared in
+Night%27s_Watch_archer,The_Watchers_on_the_Wall,SeenOrMentioned,Appeared in
+Jack_Bulwer,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Kegs,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Halder,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Mully,The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Lobor,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Hobb,The_Watchers_on_the_Wall,SeenOrMentioned,First seen
+Hobb,The_Climb,SeenOrMentioned,Mentioned in
+Hobb,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Hobb,Mockingbird,SeenOrMentioned,Mentioned in
+Britt_Warrick,Iron_From_Ice,SeenOrMentioned,First seen
+Britt_Warrick,The_Sword_in_the_Darkness,SeenOrMentioned,Last seen
+Britt_Warrick,Sons_of_Winter,SeenOrMentioned,Last seen
+Britt_Warrick,The_Sword_in_the_Darkness,SeenOrMentioned,Death shown in episode
+Hugh_(Telltale),The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Todder,You_Win_or_You_Die,SeenOrMentioned,First seen
+Ygritte,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Ygritte,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Ygritte,The_Children,SeenOrMentioned,Last seen
+Ygritte,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Donnel_Hill,The_Watchers_on_the_Wall,SeenOrMentioned,Appeared in
+Donnel_Hill,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Cooper,The_Watchers_on_the_Wall,SeenOrMentioned,Appeared in
+Balian,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Matthar,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Mag_Mar_Tun_Doh_Weg,The_Watchers_on_the_Wall,SeenOrMentioned,Appeared in
+Mag_Mar_Tun_Doh_Weg,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Jafer_Flowers,The_Pointy_End,SeenOrMentioned,Appeared in
+Jafer_Flowers,The_Pointy_End,SeenOrMentioned,Death shown in episode
+Othor,The_Pointy_End,SeenOrMentioned,Appeared in
+Othor,The_Pointy_End,SeenOrMentioned,Death shown in episode
+Jaremy_Rykker,You_Win_or_You_Die,SeenOrMentioned,Appeared in
+Brynden_Rivers,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Jaehaerys_I_Targaryen,The_Rains_of_Castamere_(episode),SeenOrMentioned,Mentioned in
+Harys_Swyft,Fire_and_Blood,SeenOrMentioned,Appeared in
+Zalla,The_Children,SeenOrMentioned,First seen
+Mole%27s_Town_madam,Breaker_of_Chains,SeenOrMentioned,First seen
+Mikken,Winter_Is_Coming,SeenOrMentioned,First seen
+Mikken,The_Kingsroad,SeenOrMentioned,Last seen
+Mikken,Lord_Snow,SeenOrMentioned,Mentioned in
+Farlen,The_Old_Gods_and_the_New,SeenOrMentioned,First seen
+Farlen,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Jojen_Reed,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Jojen_Reed,The_Children,SeenOrMentioned,Last seen
+Jojen_Reed,The_Children,SeenOrMentioned,Death shown in episode
+Hodor,Winter_Is_Coming,SeenOrMentioned,First seen
+Hodor,The_Door,SeenOrMentioned,Last seen
+Hodor,The_Door,SeenOrMentioned,Death shown in episode
+Old_Nan,Lord_Snow,SeenOrMentioned,First seen
+Old_Nan,The_Door,SeenOrMentioned,Last seen
+Vayon_Poole,The_Pointy_End,SeenOrMentioned,Appeared in
+Vayon_Poole,The_Kingsroad,SeenOrMentioned,Mentioned in
+Vayon_Poole,The_Pointy_End,SeenOrMentioned,Death shown in episode
+Jory_Cassel,Winter_Is_Coming,SeenOrMentioned,First seen
+Jory_Cassel,The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Jory_Cassel,The_Wolf_and_the_Lion,SeenOrMentioned,Death shown in episode
+Jeyne_Poole,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Goatherd_(The_Children),The_Children,SeenOrMentioned,Appeared in
+Jonos_Bracken,Fire_and_Blood,SeenOrMentioned,Appeared in
+Galbart_Glover,The_Pointy_End,SeenOrMentioned,First seen
+Galbart_Glover,Fire_and_Blood,SeenOrMentioned,Last seen
+Galbart_Glover,The_Broken_Man,SeenOrMentioned,Mentioned in
+Greatjon_Umber,The_Pointy_End,SeenOrMentioned,First seen
+Greatjon_Umber,Fire_and_Blood,SeenOrMentioned,Last seen
+Greatjon_Umber,Oathbreaker,SeenOrMentioned,Mentioned in
+Greatjon_Umber,Blood_of_My_Blood,SeenOrMentioned,Mentioned in
+Wyman_Manderly,The_Winds_of_Winter,SeenOrMentioned,Appeared in
+Master_Torturer,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Master_Torturer,Walk_of_Punishment,SeenOrMentioned,Last seen
+Master_Torturer,Walk_of_Punishment,SeenOrMentioned,Death shown in episode
+Heward,The_Wolf_and_the_Lion,SeenOrMentioned,Appeared in
+Heward,The_Wolf_and_the_Lion,SeenOrMentioned,Death shown in episode
+King%27s_Landing_whore_(Lord_Snow),Lord_Snow,SeenOrMentioned,First seen
+King%27s_Landing_whore_(Lord_Snow),The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Bolton_(son_of_Roose),Home,SeenOrMentioned,Appeared in
+Bolton_(son_of_Roose),Home,SeenOrMentioned,Death shown in episode
+Baratheon_officer,Blackwater,SeenOrMentioned,Appeared in
+Baratheon_officer,Blackwater,SeenOrMentioned,Death shown in episode
+Yohn_Royce,The_Mountain_and_the_Viper,SeenOrMentioned,First seen
+Myranda,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,First seen
+Myranda,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Myranda,The_Red_Woman,SeenOrMentioned,Last seen
+Myranda,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Walda_Bolton,The_Lion_and_the_Rose,SeenOrMentioned,First seen
+Walda_Bolton,Home,SeenOrMentioned,Last seen
+Walda_Bolton,Home,SeenOrMentioned,Death shown in episode
+Robin_Arryn,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Will,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Will,Winter_Is_Coming,SeenOrMentioned,Death shown in episode
+Gared,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Gared,Winter_Is_Coming,SeenOrMentioned,Death shown in episode
+Waymar_Royce,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Waymar_Royce,The_Mountain_and_the_Viper,SeenOrMentioned,Mentioned in
+Waymar_Royce,Winter_Is_Coming,SeenOrMentioned,Death shown in episode
+Rossart,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Qarlton_Chelsted,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Trystane_Martell,The_House_of_Black_and_White,SeenOrMentioned,First seen
+Trystane_Martell,The_Red_Woman,SeenOrMentioned,Last seen
+Trystane_Martell,What_Is_Dead_May_Never_Die,SeenOrMentioned,Mentioned in
+Trystane_Martell,The_Red_Woman,SeenOrMentioned,Death shown in episode
+Doran_Martell,The_House_of_Black_and_White,SeenOrMentioned,First seen
+Doran_Martell,The_Red_Woman,SeenOrMentioned,Last seen
+Doran_Martell,Two_Swords,SeenOrMentioned,Mentioned in
+Doran_Martell,The_Lion_and_the_Rose,SeenOrMentioned,Mentioned in
+Doran_Martell,The_Red_Woman,SeenOrMentioned,Death shown in episode
+Lyanna_Stark,Home,SeenOrMentioned,First seen
+Lyanna_Stark,The_Dragon_and_the_Wolf,SeenOrMentioned,Last seen
+Lyanna_Stark,Winter_Is_Coming,SeenOrMentioned,Mentioned in
+Lyanna_Stark,The_Kingsroad,SeenOrMentioned,Mentioned in
+Lyanna_Stark,The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Lyanna_Stark,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Lyanna_Stark,Fire_and_Blood,SeenOrMentioned,Mentioned in
+Lyanna_Stark,"Dark_Wings,_Dark_Words",SeenOrMentioned,Mentioned in
+Lyanna_Stark,First_of_His_Name,SeenOrMentioned,Mentioned in
+Lyanna_Stark,Oathbreaker,SeenOrMentioned,Mentioned in
+Lyanna_Stark,Eastwatch,SeenOrMentioned,Mentioned in
+Lyanna_Stark,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Rickard_Stark,The_Door,SeenOrMentioned,Appeared in
+Rickard_Stark,Winter_Is_Coming,SeenOrMentioned,Mentioned in
+Rickard_Stark,Lord_Snow,SeenOrMentioned,Mentioned in
+Rickard_Stark,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Rickard_Stark,Kill_the_Boy,SeenOrMentioned,Mentioned in
+Cregan_Stark,Oathkeeper,SeenOrMentioned,Mentioned in
+Osric_Stark,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Torrhen_Stark,The_Queen%27s_Justice,SeenOrMentioned,Mentioned in
+Dorren_Stark,Kill_the_Boy,SeenOrMentioned,Mentioned in
+Maege_Mormont,The_Pointy_End,SeenOrMentioned,First seen
+Maege_Mormont,Fire_and_Blood,SeenOrMentioned,Last seen
+Maege_Mormont,The_Broken_Man,SeenOrMentioned,Mentioned in
+Rickard_Karstark,Fire_and_Blood,SeenOrMentioned,First seen
+Rickard_Karstark,Kissed_by_Fire,SeenOrMentioned,Last seen
+Rickard_Karstark,Home,SeenOrMentioned,Mentioned in
+Rickard_Karstark,Kissed_by_Fire,SeenOrMentioned,Death shown in episode
+Torrhen_Karstark,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Torrhen_Karstark,The_Climb,SeenOrMentioned,Mentioned in
+Torrhen_Karstark,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Olyvar_Frey,Baelor,SeenOrMentioned,Mentioned in
+Wendel_Manderly,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Wendel_Manderly,The_Winds_of_Winter,SeenOrMentioned,Mentioned in
+Wendel_Manderly,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Jeor_Mormont,Lord_Snow,SeenOrMentioned,First seen
+Jeor_Mormont,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Last seen
+Jeor_Mormont,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Death shown in episode
+Bald_Dragonstone_servant,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Cotter,The_Lost_Lords,SeenOrMentioned,First seen
+Cotter,The_Ice_Dragon,SeenOrMentioned,Last seen
+Cotter,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Rast,The_Kingsroad,SeenOrMentioned,First seen
+Rast,First_of_His_Name,SeenOrMentioned,Last seen
+Rast,First_of_His_Name,SeenOrMentioned,Death shown in episode
+Karl_Tanner,Walk_of_Punishment,SeenOrMentioned,First seen
+Karl_Tanner,First_of_His_Name,SeenOrMentioned,Last seen
+Karl_Tanner,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Karl_Tanner,First_of_His_Name,SeenOrMentioned,Death shown in episode
+Erik,Iron_From_Ice,SeenOrMentioned,First seen
+Erik,Sons_of_Winter,SeenOrMentioned,Last seen
+Erik,The_Ice_Dragon,SeenOrMentioned,Last seen
+Erik,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Finn,The_Lost_Lords,SeenOrMentioned,First seen
+Finn,Sons_of_Winter,SeenOrMentioned,Last seen
+Finn,The_Ice_Dragon,SeenOrMentioned,Last seen
+Finn,A_Nest_of_Vipers,SeenOrMentioned,Death shown in episode
+Gared_Tuttle,Iron_From_Ice,SeenOrMentioned,First seen
+Mance_Rayder,Valar_Dohaeris,SeenOrMentioned,First seen
+Mance_Rayder,The_Wars_To_Come,SeenOrMentioned,Last seen
+Mance_Rayder,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Mance_Rayder,The_North_Remembers,SeenOrMentioned,Mentioned in
+Mance_Rayder,The_Night_Lands,SeenOrMentioned,Mentioned in
+Mance_Rayder,The_Ghost_of_Harrenhal,SeenOrMentioned,Mentioned in
+Mance_Rayder,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Mance_Rayder,Valar_Morghulis,SeenOrMentioned,Mentioned in
+Mance_Rayder,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Mentioned in
+Mance_Rayder,The_Watchers_on_the_Wall,SeenOrMentioned,Mentioned in
+Mance_Rayder,Beyond_the_Wall_(episode),SeenOrMentioned,Mentioned in
+Mance_Rayder,The_Wars_To_Come,SeenOrMentioned,Death shown in episode
+Night%27s_Watch_officer,The_North_Remembers,SeenOrMentioned,First seen
+Night%27s_Watch_officer,What_Is_Dead_May_Never_Die,SeenOrMentioned,Last seen
+Night%27s_Watch_messenger,The_Pointy_End,SeenOrMentioned,First seen
+Night%27s_Watch_messenger,Baelor,SeenOrMentioned,Last seen
+King%27s_Landing_urchin,Baelor,SeenOrMentioned,Appeared in
+Olly,Breaker_of_Chains,SeenOrMentioned,First seen
+Olly,Oathbreaker,SeenOrMentioned,Last seen
+Olly,Oathbreaker,SeenOrMentioned,Death shown in episode
+Night%27s_Watch_man_(Baelor),Baelor,SeenOrMentioned,Appeared in
+Yoren,Lord_Snow,SeenOrMentioned,First seen
+Yoren,What_Is_Dead_May_Never_Die,SeenOrMentioned,Last seen
+Yoren,What_Is_Dead_May_Never_Die,SeenOrMentioned,Death shown in episode
+Grenn,Lord_Snow,SeenOrMentioned,First seen
+Grenn,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Grenn,The_Children,SeenOrMentioned,Last seen
+Grenn,Kill_the_Boy,SeenOrMentioned,Mentioned in
+Grenn,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Pypar,Lord_Snow,SeenOrMentioned,First seen
+Pypar,The_Watchers_on_the_Wall,SeenOrMentioned,Last seen
+Pypar,The_Children,SeenOrMentioned,Last seen
+Pypar,Kill_the_Boy,SeenOrMentioned,Mentioned in
+Pypar,The_Watchers_on_the_Wall,SeenOrMentioned,Death shown in episode
+Othell_Yarwyck,You_Win_or_You_Die,SeenOrMentioned,First seen
+Othell_Yarwyck,Oathbreaker,SeenOrMentioned,Last seen
+Othell_Yarwyck,Oathbreaker,SeenOrMentioned,Death shown in episode
+Bowen_Marsh,The_Wars_To_Come,SeenOrMentioned,First seen
+Bowen_Marsh,Oathbreaker,SeenOrMentioned,Last seen
+Bowen_Marsh,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Bowen_Marsh,Oathbreaker,SeenOrMentioned,Death shown in episode
+Endrew_Tarth,Two_Swords,SeenOrMentioned,Appeared in
+Cotter_Pyke,Fire_and_Blood,SeenOrMentioned,Mentioned in
+Denys_Mallister,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Denys_Mallister,The_Wars_To_Come,SeenOrMentioned,Mentioned in
+Alliser_Thorne,Lord_Snow,SeenOrMentioned,First seen
+Alliser_Thorne,Oathbreaker,SeenOrMentioned,Last seen
+Alliser_Thorne,Oathbreaker,SeenOrMentioned,Death shown in episode
+Eddison_Tollett,The_North_Remembers,SeenOrMentioned,First seen
+Janos_Slynt,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Janos_Slynt,High_Sparrow_(episode),SeenOrMentioned,Last seen
+Janos_Slynt,High_Sparrow_(episode),SeenOrMentioned,Death shown in episode
+Guymon,Breaker_of_Chains,SeenOrMentioned,Appeared in
+Guymon,Breaker_of_Chains,SeenOrMentioned,Death shown in episode
+Olly%27s_mother,Breaker_of_Chains,SeenOrMentioned,Appeared in
+Winterfell_shepherd,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Winterfell_shepherd,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Billy,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Billy,A_Man_Without_Honor,SeenOrMentioned,Death shown in episode
+Ramsay_Bolton,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Ramsay_Bolton,Battle_of_the_Bastards_(episode),SeenOrMentioned,Last seen
+Ramsay_Bolton,Battle_of_the_Bastards_(episode),SeenOrMentioned,Death shown in episode
+Jack,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Jack,A_Man_Without_Honor,SeenOrMentioned,Death shown in episode
+Lorren,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Lorren,Valar_Morghulis,SeenOrMentioned,Last seen
+Rodrik_Cassel,Winter_Is_Coming,SeenOrMentioned,First seen
+Rodrik_Cassel,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Rodrik_Cassel,The_Door,SeenOrMentioned,Last seen
+Rodrik_Cassel,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Derek,The_Gift_(episode),SeenOrMentioned,First seen
+Catspaw_assassin,The_Kingsroad,SeenOrMentioned,Appeared in
+Catspaw_assassin,The_Kingsroad,SeenOrMentioned,Death shown in episode
+Jon_Arryn,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Jon_Arryn,Lord_Snow,SeenOrMentioned,Mentioned in
+Jon_Arryn,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Jon_Arryn,The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Jon_Arryn,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Jon_Arryn,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Jon_Arryn,What_Is_Dead_May_Never_Die,SeenOrMentioned,Mentioned in
+Jon_Arryn,First_of_His_Name,SeenOrMentioned,Mentioned in
+Jon_Arryn,Mockingbird,SeenOrMentioned,Mentioned in
+Jon_Arryn,The_Dragon_and_the_Wolf,SeenOrMentioned,Mentioned in
+Jon_Arryn,Winter_Is_Coming,SeenOrMentioned,Death shown in episode
+Lysa_Arryn,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Lysa_Arryn,Mockingbird,SeenOrMentioned,Last seen
+Lysa_Arryn,Mockingbird,SeenOrMentioned,Death shown in episode
+Dagmer,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Dagmer,Valar_Morghulis,SeenOrMentioned,Last seen
+Rickon_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Rickon_Stark,Battle_of_the_Bastards_(episode),SeenOrMentioned,Last seen
+Rickon_Stark,Battle_of_the_Bastards_(episode),SeenOrMentioned,Death shown in episode
+Brant,The_Gift_(episode),SeenOrMentioned,First seen
+Wyl_(House_Stark),The_Wolf_and_the_Lion,SeenOrMentioned,Appeared in
+Wyl_(House_Stark),The_Wolf_and_the_Lion,SeenOrMentioned,Death shown in episode
+Pentoshi_servant,Winter_Is_Coming,SeenOrMentioned,Appeared in
+Xaro_Xhoan_Daxos,Garden_of_Bones,SeenOrMentioned,First seen
+Xaro_Xhoan_Daxos,Valar_Morghulis,SeenOrMentioned,Last seen
+Xaro_Xhoan_Daxos,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Pyat_Pree,Garden_of_Bones,SeenOrMentioned,First seen
+Pyat_Pree,Valar_Morghulis,SeenOrMentioned,Last seen
+Pyat_Pree,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Unidentified_Warlock,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Rhaenys_Targaryen_(daughter_of_Rhaegar),And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Osha,A_Golden_Crown,SeenOrMentioned,First seen
+Osha,Book_of_the_Stranger,SeenOrMentioned,Last seen
+Osha,Book_of_the_Stranger,SeenOrMentioned,Death shown in episode
+Caleotte,The_Red_Woman,SeenOrMentioned,Appeared in
+Ortengryn,Iron_From_Ice,SeenOrMentioned,First seen
+Ortengryn,The_Ice_Dragon,SeenOrMentioned,Last seen
+Ortengryn,The_Ice_Dragon,SeenOrMentioned,Death shown in episode
+Marlon,The_Wolf_and_the_Lion,SeenOrMentioned,Mentioned in
+Ch%27Vyalthan,The_Prince_of_Winterfell,SeenOrMentioned,Mentioned in
+Ch%27Vyalthan,Stormborn,SeenOrMentioned,Mentioned in
+Aemon,Lord_Snow,SeenOrMentioned,First seen
+Aemon,The_Gift_(episode),SeenOrMentioned,Last seen
+Aemon,The_Gift_(episode),SeenOrMentioned,Death shown in episode
+Ebrose,Dragonstone_(episode),SeenOrMentioned,First seen
+Randyll_Tarly,Blood_of_My_Blood,SeenOrMentioned,First seen
+Randyll_Tarly,Eastwatch,SeenOrMentioned,Last seen
+Dwarf_hunter_2,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Dwarf_hunter_1,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Dwarf_1,The_Lion_and_the_Rose,SeenOrMentioned,First seen
+Dwarf_1,The_House_of_Black_and_White,SeenOrMentioned,Last seen
+Bruni,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Mentioned in
+Steelshanks,And_Now_His_Watch_Is_Ended,SeenOrMentioned,First seen
+Steelshanks,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Last seen
+Pycelle,Lord_Snow,SeenOrMentioned,First seen
+Pycelle,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Pycelle,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Talisa_Stark,Garden_of_Bones,SeenOrMentioned,First seen
+Talisa_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Talisa_Stark,Blood_of_My_Blood,SeenOrMentioned,Mentioned in
+Talisa_Stark,The_Broken_Man,SeenOrMentioned,Mentioned in
+Talisa_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Roose_Bolton,Garden_of_Bones,SeenOrMentioned,First seen
+Roose_Bolton,Home,SeenOrMentioned,Last seen
+Roose_Bolton,Home,SeenOrMentioned,Death shown in episode
+Rakharo,Lord_Snow,SeenOrMentioned,First seen
+Rakharo,The_North_Remembers,SeenOrMentioned,Last seen
+Rakharo,The_Night_Lands,SeenOrMentioned,Last seen
+Rakharo,The_Night_Lands,SeenOrMentioned,Death shown in episode
+Kovarro,The_North_Remembers,SeenOrMentioned,First seen
+Kovarro,Valar_Morghulis,SeenOrMentioned,Last seen
+Emmon_Cuy,The_Ghost_of_Harrenhal,SeenOrMentioned,Appeared in
+Emmon_Cuy,The_Ghost_of_Harrenhal,SeenOrMentioned,Death shown in episode
+Sandhu,Eastwatch,SeenOrMentioned,Appeared in
+Weyland,Dragonstone_(episode),SeenOrMentioned,Appeared in
+Viserys_Targaryen,Winter_Is_Coming,SeenOrMentioned,First seen
+Viserys_Targaryen,A_Golden_Crown,SeenOrMentioned,Last seen
+Viserys_Targaryen,A_Golden_Crown,SeenOrMentioned,Death shown in episode
+Locke,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Locke,First_of_His_Name,SeenOrMentioned,Last seen
+Locke,First_of_His_Name,SeenOrMentioned,Death shown in episode
+Robar_Royce,The_Ghost_of_Harrenhal,SeenOrMentioned,Appeared in
+Robar_Royce,The_Ghost_of_Harrenhal,SeenOrMentioned,Death shown in episode
+Gwayne_Gaunt,Oathkeeper,SeenOrMentioned,Mentioned in
+Oswell_Whent,Two_Swords,SeenOrMentioned,Mentioned in
+Howland_Reed,Oathbreaker,SeenOrMentioned,Appeared in
+Howland_Reed,"Dark_Wings,_Dark_Words",SeenOrMentioned,Mentioned in
+Howland_Reed,Dragonstone_(episode),SeenOrMentioned,Mentioned in
+Bharbo,Lord_Snow,SeenOrMentioned,Mentioned in
+Bharbo,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Bharbo,The_Red_Woman,SeenOrMentioned,Mentioned in
+Duncan_Targaryen,Oathkeeper,SeenOrMentioned,Mentioned in
+Aerion_Targaryen,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Aegon_V_Targaryen,Baelor,SeenOrMentioned,Mentioned in
+Aegon_V_Targaryen,Two_Swords,SeenOrMentioned,Mentioned in
+Aegon_V_Targaryen,The_Gift_(episode),SeenOrMentioned,Mentioned in
+Daeron_II_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Terrence_Toyne,Oathkeeper,SeenOrMentioned,Mentioned in
+Aemon_Targaryen_(Dragonknight),Oathkeeper,SeenOrMentioned,Mentioned in
+Marston_Waters,Oathkeeper,SeenOrMentioned,Mentioned in
+Aegon_IV_Targaryen,A_Golden_Crown,SeenOrMentioned,Mentioned in
+Bessie,The_Kingsroad,SeenOrMentioned,Mentioned in
+Rhaenyra_Targaryen,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Rhaenyra_Targaryen,The_Dance_of_Dragons,SeenOrMentioned,Mentioned in
+Aegon_II_Targaryen,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Mentioned in
+Aegon_II_Targaryen,The_Dance_of_Dragons,SeenOrMentioned,Mentioned in
+Viserys_I_Targaryen,Winter_Is_Coming,SeenOrMentioned,Mentioned in
+Ironborn_2_(The_Door),The_Door,SeenOrMentioned,First seen
+Irogenia_of_Lys,The_Kingsroad,SeenOrMentioned,Mentioned in
+Visenya_Targaryen,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,Blood_of_My_Blood,SeenOrMentioned,First seen
+Aerys_II_Targaryen,Winter_Is_Coming,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,The_Kingsroad,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,Lord_Snow,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,Baelor,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,The_Ghost_of_Harrenhal,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,Kissed_by_Fire,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Aerys_II_Targaryen,Blood_of_My_Blood,SeenOrMentioned,Death shown in episode
+Drunk_man,Lord_Snow,SeenOrMentioned,Appeared in
+Mandon_Moore,You_Win_or_You_Die,SeenOrMentioned,First seen
+Mandon_Moore,Blackwater,SeenOrMentioned,Last seen
+Mandon_Moore,Blackwater,SeenOrMentioned,Death shown in episode
+Bernadette,A_Man_Without_Honor,SeenOrMentioned,First seen
+Osmund_Kettleblack,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Septon_(Valar_Morghulis),Valar_Morghulis,SeenOrMentioned,Appeared in
+Gerold_Hightower,Oathbreaker,SeenOrMentioned,Appeared in
+Gerold_Hightower,Two_Swords,SeenOrMentioned,Mentioned in
+Gerold_Hightower,Oathbreaker,SeenOrMentioned,Death shown in episode
+Balon_Swann,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,First seen
+Balon_Swann,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Arys_Oakheart,You_Win_or_You_Die,SeenOrMentioned,First seen
+Boros_Blount,You_Win_or_You_Die,SeenOrMentioned,First seen
+Meryn_Trant,The_Pointy_End,SeenOrMentioned,First seen
+Meryn_Trant,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Meryn_Trant,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Tycho_Nestoris,The_Laws_of_Gods_and_Men,SeenOrMentioned,First seen
+Old_woman_prisoner,Garden_of_Bones,SeenOrMentioned,Appeared in
+Arthur_Dayne,Oathbreaker,SeenOrMentioned,Appeared in
+Arthur_Dayne,Two_Swords,SeenOrMentioned,Mentioned in
+Arthur_Dayne,Oathbreaker,SeenOrMentioned,Death shown in episode
+Walder_Rivers,The_Climb,SeenOrMentioned,First seen
+Walder_Rivers,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Walder_Rivers,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Lothar_Frey,The_Climb,SeenOrMentioned,First seen
+Lothar_Frey,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Lothar_Frey,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Aegon_I_Targaryen,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Aegon_I_Targaryen,You_Win_or_You_Die,SeenOrMentioned,Mentioned in
+Aegon_I_Targaryen,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Aegon_I_Targaryen,The_Queen%27s_Justice,SeenOrMentioned,Mentioned in
+Farmer,Breaker_of_Chains,SeenOrMentioned,First seen
+Farmer,Breaker_of_Chains,SeenOrMentioned,Last seen
+Sally,Breaker_of_Chains,SeenOrMentioned,First seen
+Sally,Breaker_of_Chains,SeenOrMentioned,Last seen
+Robb_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Robb_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Robb_Stark,Mhysa,SeenOrMentioned,Last seen
+Robb_Stark,Blood_of_My_Blood,SeenOrMentioned,Last seen
+Robb_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Walder_Frey,Baelor,SeenOrMentioned,First seen
+Walder_Frey,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Walder_Frey,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Mace_Tyrell,The_Lion_and_the_Rose,SeenOrMentioned,First seen
+Mace_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Mace_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Tyrell_servant,"Dark_Wings,_Dark_Words",SeenOrMentioned,Appeared in
+King%27s_Landing_tailor,"Dark_Wings,_Dark_Words",SeenOrMentioned,Appeared in
+Karstark_lookout,Kissed_by_Fire,SeenOrMentioned,Appeared in
+Karstark_lookout,Kissed_by_Fire,SeenOrMentioned,Death shown in episode
+Kevan_Lannister,The_Pointy_End,SeenOrMentioned,First seen
+Kevan_Lannister,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Kevan_Lannister,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Maegor_III_Targaryen,The_Dance_of_Dragons,SeenOrMentioned,Mentioned in
+Great_Master_6,Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_7,Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_5,Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_2_(Kill_the_Boy),Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_4,Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_3_(Kill_the_Boy),Kill_the_Boy,SeenOrMentioned,Appeared in
+Elyo_Grivas,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Septon_(The_Rains_of_Castamere),The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Night%27s_Watch_man_(Breaker_of_Chains),Breaker_of_Chains,SeenOrMentioned,Appeared in
+Tortured_slave,Walk_of_Punishment,SeenOrMentioned,Appeared in
+Drummer,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Hog_farmer,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Frey_guard,The_Rains_of_Castamere_(episode),SeenOrMentioned,Appeared in
+Yunkai%27i_slave_6,Mhysa,SeenOrMentioned,Appeared in
+Yunkai%27i_slave_5,Mhysa,SeenOrMentioned,Appeared in
+Wibberley_(Lord),Sons_of_the_Harpy_(episode),SeenOrMentioned,Mentioned in
+Yunkai%27i_slave_4,Mhysa,SeenOrMentioned,Appeared in
+Hizdahr_zo_Loraq%27s_manservant,Breaker_of_Chains,SeenOrMentioned,First seen
+Slave_(Breaker_of_Chains),Breaker_of_Chains,SeenOrMentioned,Appeared in
+Yunkai%27i_slave_3,Mhysa,SeenOrMentioned,Appeared in
+Yunkai%27i_slave_2,Mhysa,SeenOrMentioned,Appeared in
+Yunkai%27i_slave_1,Mhysa,SeenOrMentioned,Appeared in
+Fruit_vendor,Mhysa,SeenOrMentioned,Appeared in
+Great_Master_3_(Breaker_of_Chains),Breaker_of_Chains,SeenOrMentioned,First seen
+Unsullied_1_(Oathkeeper),Oathkeeper,SeenOrMentioned,First seen
+Valyrian_slave,Oathkeeper,SeenOrMentioned,First seen
+Elder_slave,Oathkeeper,SeenOrMentioned,First seen
+Great_Master_2_(Breaker_of_Chains),Breaker_of_Chains,SeenOrMentioned,Appeared in
+Great_Master_1_(Breaker_of_Chains),Breaker_of_Chains,SeenOrMentioned,First seen
+Great_Master_1_(Breaker_of_Chains),Oathkeeper,SeenOrMentioned,Last seen
+Great_Master_1_(Breaker_of_Chains),Oathkeeper,SeenOrMentioned,Death shown in episode
+Brothel_guard,High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Little_Bird_(The_Mountain_and_the_Viper),The_Mountain_and_the_Viper,SeenOrMentioned,Appeared in
+Kullback,The_Children,SeenOrMentioned,Appeared in
+Goatherd_(The_Laws_of_Gods_and_Men),The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+Calla,The_Children,SeenOrMentioned,Mentioned in
+Mighdal,The_Children,SeenOrMentioned,Mentioned in
+Goatherd%27s_son,The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+King%27s_Landing_flasher,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+King%27s_Landing_whore_(Mother%27s_Mercy),Mother%27s_Mercy,SeenOrMentioned,Appeared in
+King%27s_Landing_drunkard,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Whore_(The_Crone),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Whore_(The_Maiden),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Whore_(The_Mother),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Whore_(The_Smith),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Foreign_merchant,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Lead_Kingsguard,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Second_Son,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Second_Son,Sons_of_the_Harpy_(episode),SeenOrMentioned,Death shown in episode
+Faith_Militant_1,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Faith_Militant_2,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Lead_Dornish_guard,Sons_of_the_Harpy_(episode),SeenOrMentioned,Appeared in
+Lead_Dornish_guard,Sons_of_the_Harpy_(episode),SeenOrMentioned,Death shown in episode
+Baratheon_soldier_(The_Dance_of_Dragons),Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Dothraki_woman_having_sex_(Book_of_the_Stranger),Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Great_Master_1_(Kill_the_Boy),Kill_the_Boy,SeenOrMentioned,Appeared in
+Great_Master_1_(Kill_the_Boy),Kill_the_Boy,SeenOrMentioned,Death shown in episode
+Baratheon_soldier_(Mother%27s_Mercy),Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Baratheon_soldier_(Mother%27s_Mercy),Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Brothel_child_2,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Brothel_child_1,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Ghita,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,First seen
+Ghita,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Ghita,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Death shown in episode
+Tyrell_guard_(The_Gift),The_Gift_(episode),SeenOrMentioned,First seen
+Braavosi_captain,Hardhome_(episode),SeenOrMentioned,Appeared in
+Boake,Sons_of_the_Harpy_(episode),SeenOrMentioned,First seen
+Duncan_Liddle,Hardhome_(episode),SeenOrMentioned,First seen
+Dothraki_man_having_sex,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+"Joss_(Unbowed,_Unbent,_Unbroken)","Unbowed,_Unbent,_Unbroken",SeenOrMentioned,First seen
+Simpson,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Simpson,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Winter_town_man,Kill_the_Boy,SeenOrMentioned,Appeared in
+Gordy,Mother%27s_Mercy,SeenOrMentioned,Appeared in
+Gordy,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Balon_Greyjoy,The_Night_Lands,SeenOrMentioned,First seen
+Balon_Greyjoy,Home,SeenOrMentioned,Last seen
+Balon_Greyjoy,Home,SeenOrMentioned,Death shown in episode
+Syrio_Forel,Lord_Snow,SeenOrMentioned,First seen
+Syrio_Forel,The_Pointy_End,SeenOrMentioned,Last seen
+Axell_Florent,The_Lion_and_the_Rose,SeenOrMentioned,Appeared in
+Axell_Florent,The_Lion_and_the_Rose,SeenOrMentioned,Death shown in episode
+Shireen_Baratheon,Kissed_by_Fire,SeenOrMentioned,First seen
+Shireen_Baratheon,The_Dance_of_Dragons,SeenOrMentioned,Last seen
+Shireen_Baratheon,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Hot_Pie,Fire_and_Blood,SeenOrMentioned,First seen
+Hot_Pie,Stormborn,SeenOrMentioned,Last seen
+Sailor_(The_Dance_of_Dragons),The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Fighting_pit_announcer,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Fighting_pit_announcer,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Meereenese_Champion,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Meereenese_Champion,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Young_bravo,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Qartheen_woman,The_Ghost_of_Harrenhal,SeenOrMentioned,Appeared in
+Water_Dancer,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Water_Dancer,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Norvoshi_pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Norvoshi_pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Dothraki_pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Appeared in
+Dothraki_pit_fighter,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Inn_waitress,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Street_tough_2,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Mallister_supporter,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Hoster_Tully,Walk_of_Punishment,SeenOrMentioned,Appeared in
+Hoster_Tully,Baelor,SeenOrMentioned,Mentioned in
+Hoster_Tully,Mhysa,SeenOrMentioned,Mentioned in
+Hoster_Tully,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Hoster_Tully,Mockingbird,SeenOrMentioned,Mentioned in
+Eyrie_guard,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Ray,The_Broken_Man,SeenOrMentioned,Appeared in
+Ray,No_One,SeenOrMentioned,Mentioned in
+Ray,The_Broken_Man,SeenOrMentioned,Death shown in episode
+Street_tough_1,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Steve,No_One,SeenOrMentioned,Appeared in
+Morgan,The_Broken_Man,SeenOrMentioned,First seen
+Morgan,No_One,SeenOrMentioned,Last seen
+Morgan,No_One,SeenOrMentioned,Death shown in episode
+Gatins,The_Broken_Man,SeenOrMentioned,First seen
+Gatins,No_One,SeenOrMentioned,Last seen
+Gatins,No_One,SeenOrMentioned,Death shown in episode
+Riddell,No_One,SeenOrMentioned,Appeared in
+Riddell,No_One,SeenOrMentioned,Death shown in episode
+Eddard_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Eddard_Stark,Baelor,SeenOrMentioned,Last seen
+Eddard_Stark,Fire_and_Blood,SeenOrMentioned,Last seen
+Eddard_Stark,The_Dragon_and_the_Wolf,SeenOrMentioned,Last seen
+Eddard_Stark,Baelor,SeenOrMentioned,Death shown in episode
+Olyvar,Kissed_by_Fire,SeenOrMentioned,First seen
+Olyvar,"Unbowed,_Unbent,_Unbroken",SeenOrMentioned,Last seen
+Lem,The_Broken_Man,SeenOrMentioned,First seen
+Lem,No_One,SeenOrMentioned,Last seen
+Anguy,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Anguy,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,Last seen
+Loras_Tyrell,The_Wolf_and_the_Lion,SeenOrMentioned,First seen
+Loras_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Loras_Tyrell,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+High_Septon_(After_the_riot_of_King%27s_Landing),Second_Sons_(episode),SeenOrMentioned,First seen
+High_Septon_(After_the_riot_of_King%27s_Landing),Valar_Morghulis,SeenOrMentioned,Mentioned in
+High_Sparrow,High_Sparrow_(episode),SeenOrMentioned,First seen
+High_Sparrow,The_Winds_of_Winter,SeenOrMentioned,Last seen
+High_Sparrow,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Lancel_Lannister,Lord_Snow,SeenOrMentioned,First seen
+Lancel_Lannister,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Lancel_Lannister,The_Laws_of_Gods_and_Men,SeenOrMentioned,Mentioned in
+Lancel_Lannister,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Oberyn_Martell,Two_Swords,SeenOrMentioned,First seen
+Oberyn_Martell,The_Mountain_and_the_Viper,SeenOrMentioned,Last seen
+Oberyn_Martell,The_Mountain_and_the_Viper,SeenOrMentioned,Death shown in episode
+Yezzan_zo_Qaggaz,The_Gift_(episode),SeenOrMentioned,First seen
+Karstark_soldier_2,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Tortured_prisoner,Garden_of_Bones,SeenOrMentioned,Appeared in
+Tortured_prisoner,Garden_of_Bones,SeenOrMentioned,Death shown in episode
+Razdal_mo_Eraz,The_Bear_and_the_Maiden_Fair_(episode),SeenOrMentioned,First seen
+Karstark_soldier_1,A_Man_Without_Honor,SeenOrMentioned,Appeared in
+Belicho_Paenymion,Book_of_the_Stranger,SeenOrMentioned,First seen
+Ironborn_in_skiff,The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+First_Mate,The_Laws_of_Gods_and_Men,SeenOrMentioned,Appeared in
+Hizdahr_zo_Loraq,Breaker_of_Chains,SeenOrMentioned,First seen
+Hizdahr_zo_Loraq,The_Dance_of_Dragons,SeenOrMentioned,Last seen
+Hizdahr_zo_Loraq,The_Dance_of_Dragons,SeenOrMentioned,Death shown in episode
+Vala,The_Wars_To_Come,SeenOrMentioned,First seen
+Fennesz,The_Children,SeenOrMentioned,First seen
+Mossador,Oathkeeper,SeenOrMentioned,First seen
+Mossador,The_House_of_Black_and_White,SeenOrMentioned,Last seen
+Mossador,The_House_of_Black_and_White,SeenOrMentioned,Death shown in episode
+Son_of_the_Harpy,The_House_of_Black_and_White,SeenOrMentioned,Appeared in
+Son_of_the_Harpy,The_House_of_Black_and_White,SeenOrMentioned,Death shown in episode
+Barristan_Selmy,Lord_Snow,SeenOrMentioned,First seen
+Barristan_Selmy,Sons_of_the_Harpy_(episode),SeenOrMentioned,Last seen
+Barristan_Selmy,Kill_the_Boy,SeenOrMentioned,Last seen
+Barristan_Selmy,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Barristan_Selmy,Sons_of_the_Harpy_(episode),SeenOrMentioned,Death shown in episode
+Daario_Naharis,Second_Sons_(episode),SeenOrMentioned,First seen
+Daario_Naharis,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Illyrio_Mopatis,Winter_Is_Coming,SeenOrMentioned,First seen
+Illyrio_Mopatis,The_Wolf_and_the_Lion,SeenOrMentioned,Last seen
+Illyrio_Mopatis,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Illyrio_Mopatis,The_Wars_To_Come,SeenOrMentioned,Mentioned in
+Drogo,Winter_Is_Coming,SeenOrMentioned,First seen
+Drogo,Fire_and_Blood,SeenOrMentioned,Last seen
+Drogo,Valar_Morghulis,SeenOrMentioned,Last seen
+Drogo,The_North_Remembers,SeenOrMentioned,Mentioned in
+Drogo,The_Old_Gods_and_the_New,SeenOrMentioned,Mentioned in
+Drogo,The_Gift_(episode),SeenOrMentioned,Mentioned in
+Drogo,The_Red_Woman,SeenOrMentioned,Mentioned in
+Drogo,Fire_and_Blood,SeenOrMentioned,Death shown in episode
+Kraznys_mo_Nakloz,Valar_Dohaeris,SeenOrMentioned,First seen
+Kraznys_mo_Nakloz,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Last seen
+Kraznys_mo_Nakloz,And_Now_His_Watch_Is_Ended,SeenOrMentioned,Death shown in episode
+White_Rat,The_Wars_To_Come,SeenOrMentioned,Appeared in
+White_Rat,The_Wars_To_Come,SeenOrMentioned,Death shown in episode
+Dom,Oathbreaker,SeenOrMentioned,Mentioned in
+Salladhor_Saan,The_Night_Lands,SeenOrMentioned,First seen
+Lodos,Eastwatch,SeenOrMentioned,Mentioned in
+Aeron_Greyjoy,Home,SeenOrMentioned,First seen
+Aeron_Greyjoy,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,Mentioned in
+Selyse_Baratheon,The_North_Remembers,SeenOrMentioned,First seen
+Selyse_Baratheon,The_Dance_of_Dragons,SeenOrMentioned,Last seen
+Selyse_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Selyse_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Unsullied_1_(Valar_Dohaeris),Valar_Dohaeris,SeenOrMentioned,Appeared in
+Boat_commander,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Quaithe,The_Ghost_of_Harrenhal,SeenOrMentioned,First seen
+Quaithe,A_Man_Without_Honor,SeenOrMentioned,Last seen
+Beric_Dondarrion,A_Golden_Crown,SeenOrMentioned,First seen
+Beric_Dondarrion,Kissed_by_Fire,SeenOrMentioned,Death shown in episode
+Renly_Baratheon,Lord_Snow,SeenOrMentioned,First seen
+Renly_Baratheon,The_Ghost_of_Harrenhal,SeenOrMentioned,Last seen
+Renly_Baratheon,The_Ghost_of_Harrenhal,SeenOrMentioned,Death shown in episode
+Orphan_kid_1,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Matthos_Seaworth,The_North_Remembers,SeenOrMentioned,First seen
+Matthos_Seaworth,Blackwater,SeenOrMentioned,Last seen
+Matthos_Seaworth,Blackwater,SeenOrMentioned,Death shown in episode
+Stannis_Baratheon,The_North_Remembers,SeenOrMentioned,First seen
+Stannis_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Stannis_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Robert_Baratheon,Winter_Is_Coming,SeenOrMentioned,First seen
+Robert_Baratheon,You_Win_or_You_Die,SeenOrMentioned,Last seen
+Robert_Baratheon,You_Win_or_You_Die,SeenOrMentioned,Death shown in episode
+Zanrush,The_Red_Woman,SeenOrMentioned,First seen
+Kinvara,The_Door,SeenOrMentioned,First seen
+Thoros,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Thoros,Beyond_the_Wall_(episode),SeenOrMentioned,Last seen
+Thoros,First_of_His_Name,SeenOrMentioned,Mentioned in
+Thoros,High_Sparrow_(episode),SeenOrMentioned,Mentioned in
+Thoros,Home,SeenOrMentioned,Mentioned in
+Lordsport_dockhand,The_Night_Lands,SeenOrMentioned,Appeared in
+Red_Priestess_(No_One),No_One,SeenOrMentioned,First seen
+Mordane,Winter_Is_Coming,SeenOrMentioned,First seen
+Mordane,The_Pointy_End,SeenOrMentioned,Last seen
+Mordane,Fire_and_Blood,SeenOrMentioned,Last seen
+Mordane,The_Pointy_End,SeenOrMentioned,Death shown in episode
+Catelyn_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Catelyn_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Catelyn_Stark,The_Rains_of_Castamere_(episode),SeenOrMentioned,Death shown in episode
+Portan,The_North_Remembers,SeenOrMentioned,Appeared in
+Northern_Lord,The_North_Remembers,SeenOrMentioned,Appeared in
+Stark_officer_1,The_North_Remembers,SeenOrMentioned,Appeared in
+Stark_officer_2,The_North_Remembers,SeenOrMentioned,Appeared in
+Amory_Lorch,What_Is_Dead_May_Never_Die,SeenOrMentioned,First seen
+Amory_Lorch,The_Old_Gods_and_the_New,SeenOrMentioned,Last seen
+Amory_Lorch,The_Old_Gods_and_the_New,SeenOrMentioned,Death shown in episode
+Doreah,The_Kingsroad,SeenOrMentioned,First seen
+Doreah,Valar_Morghulis,SeenOrMentioned,Last seen
+Doreah,Valar_Morghulis,SeenOrMentioned,Death shown in episode
+Waif,High_Sparrow_(episode),SeenOrMentioned,First seen
+Waif,No_One,SeenOrMentioned,Last seen
+Waif,No_One,SeenOrMentioned,Death shown in episode
+Jaqen_H%27ghar,Fire_and_Blood,SeenOrMentioned,First seen
+Jaqen_H%27ghar,No_One,SeenOrMentioned,Last seen
+Bolton_general,Battle_of_the_Bastards_(episode),SeenOrMentioned,Appeared in
+Beggar_woman,High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Sellsword_2_(High_Sparrow),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Despondent_man,High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Sellsword_1_(High_Sparrow),High_Sparrow_(episode),SeenOrMentioned,Appeared in
+Lorimer,High_Sparrow_(episode),SeenOrMentioned,Mentioned in
+Little_Bird_7,Oathbreaker,SeenOrMentioned,Appeared in
+Little_Bird_6,Oathbreaker,SeenOrMentioned,Appeared in
+Little_Bird_5,Oathbreaker,SeenOrMentioned,First seen
+Little_Bird_3,Oathbreaker,SeenOrMentioned,Appeared in
+Little_Bird_4,Oathbreaker,SeenOrMentioned,Appeared in
+Child_of_the_Forest_3,The_Door,SeenOrMentioned,Appeared in
+Jorah_Mormont,Winter_Is_Coming,SeenOrMentioned,First seen
+Brandon_Stark_(the_Builder),Kill_the_Boy,SeenOrMentioned,Mentioned in
+Maynard,The_Lost_Lords,SeenOrMentioned,Mentioned in
+Attendant_(The_Winds_of_Winter),The_Winds_of_Winter,SeenOrMentioned,Appeared in
+Tommen%27s_manservant,The_Winds_of_Winter,SeenOrMentioned,Appeared in
+Orphan_kid_2,Valar_Dohaeris,SeenOrMentioned,Appeared in
+Flayed_man,Iron_From_Ice,SeenOrMentioned,Appeared in
+Flayed_man,Iron_From_Ice,SeenOrMentioned,Death shown in episode
+White_Walker_2_(Beyond_the_Wall),Beyond_the_Wall_(episode),SeenOrMentioned,Appeared in
+Crossroads_Inn_patron_1,Stormborn,SeenOrMentioned,Appeared in
+Crossroads_Inn_patron_2,Stormborn,SeenOrMentioned,Appeared in
+Serving_girl,Dragonstone_(episode),SeenOrMentioned,Appeared in
+Sick_maester,Dragonstone_(episode),SeenOrMentioned,Appeared in
+Stark_soldier_(The_Queen%27s_Justice),The_Queen%27s_Justice,SeenOrMentioned,Appeared in
+Koner,The_Spoils_of_War,SeenOrMentioned,Appeared in
+Henk,The_Spoils_of_War,SeenOrMentioned,Appeared in
+Meereenese_homeless_mother,The_Red_Woman,SeenOrMentioned,Appeared in
+Dothraki_widow_3,Oathbreaker,SeenOrMentioned,First seen
+Faull,Stormborn,SeenOrMentioned,Mentioned in
+Bolton_soldier_(The_Red_Woman),The_Red_Woman,SeenOrMentioned,Appeared in
+Ironborn_3_(The_Door),The_Door,SeenOrMentioned,First seen
+Night%27s_Watch_man_(The_Door),The_Door,SeenOrMentioned,Appeared in
+Night%27s_Watch_man_(Book_of_the_Stranger),Book_of_the_Stranger,SeenOrMentioned,First seen
+Braavosi_woman_2_(The_Door),The_Door,SeenOrMentioned,First seen
+Braavosi_woman_1_(The_Door),The_Door,SeenOrMentioned,First seen
+Night%27s_Watch_man_1,The_Red_Woman,SeenOrMentioned,First seen
+Night%27s_Watch_man_2,The_Red_Woman,SeenOrMentioned,First seen
+Loyal_Night%27s_Watch_man_2,The_Red_Woman,SeenOrMentioned,First seen
+Loyal_Night%27s_Watch_man_1,The_Red_Woman,SeenOrMentioned,First seen
+Dothraki_widow_2,Oathbreaker,SeenOrMentioned,First seen
+Ash,Book_of_the_Stranger,SeenOrMentioned,Appeared in
+Kesh,Book_of_the_Stranger,SeenOrMentioned,First seen
+Ironborn_1_(The_Door),The_Door,SeenOrMentioned,First seen
+Tyrell_bannerman,Blood_of_My_Blood,SeenOrMentioned,Appeared in
+King%27s_Landing_boaster,Home,SeenOrMentioned,Appeared in
+Bolton_officer,The_Red_Woman,SeenOrMentioned,Appeared in
+Bolton_officer,The_Red_Woman,SeenOrMentioned,Death shown in episode
+Volantene_whore_1_(The_Broken_Man),The_Broken_Man,SeenOrMentioned,Appeared in
+Tully_bannerman_(No_One),No_One,SeenOrMentioned,Appeared in
+White_Walker_(The_Dragon_and_the_Wolf),The_Dragon_and_the_Wolf,SeenOrMentioned,Appeared in
+Meghan,The_Sword_in_the_Darkness,SeenOrMentioned,Mentioned in
+Rob,The_Sword_in_the_Darkness,SeenOrMentioned,Mentioned in
+Namond,The_Sword_in_the_Darkness,SeenOrMentioned,Mentioned in
+Duff,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Wendel,The_Sword_in_the_Darkness,SeenOrMentioned,Appeared in
+Westerosi_trader,The_Broken_Man,SeenOrMentioned,First seen
+Night_King,The_Lion_and_the_Rose,SeenOrMentioned,First seen
+Night_King,Oathkeeper,SeenOrMentioned,First seen
+Night_King,The_Broken_Man,SeenOrMentioned,Mentioned in
+Night_King,The_Winds_of_Winter,SeenOrMentioned,Mentioned in
+Melisandre,The_North_Remembers,SeenOrMentioned,First seen
+Sandor_Clegane,Winter_Is_Coming,SeenOrMentioned,First seen
+Euron_Greyjoy,Home,SeenOrMentioned,First seen
+Samwell_Tarly,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Petyr_Baelish,Lord_Snow,SeenOrMentioned,First seen
+Petyr_Baelish,The_Dragon_and_the_Wolf,SeenOrMentioned,Last seen
+Petyr_Baelish,The_Dragon_and_the_Wolf,SeenOrMentioned,Death shown in episode
+Podrick_Payne,The_Night_Lands,SeenOrMentioned,First seen
+Gendry,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Gilly,The_North_Remembers,SeenOrMentioned,First seen
+Brienne_of_Tarth,What_Is_Dead_May_Never_Die,SeenOrMentioned,First seen
+Olenna_Tyrell,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Olenna_Tyrell,The_Queen%27s_Justice,SeenOrMentioned,Last seen
+Olenna_Tyrell,The_Queen%27s_Justice,SeenOrMentioned,Death shown in episode
+Grey_Worm,Kissed_by_Fire,SeenOrMentioned,First seen
+Missandei,Valar_Dohaeris,SeenOrMentioned,First seen
+Theon_Greyjoy,Winter_Is_Coming,SeenOrMentioned,First seen
+Ellaria_Sand,Two_Swords,SeenOrMentioned,First seen
+Ellaria_Sand,The_Queen%27s_Justice,SeenOrMentioned,Last seen
+Yara_Greyjoy,The_Night_Lands,SeenOrMentioned,First seen
+Yara_Greyjoy,"Dark_Wings,_Dark_Words",SeenOrMentioned,Mentioned in
+Yara_Greyjoy,Walk_of_Punishment,SeenOrMentioned,Mentioned in
+Varys,Lord_Snow,SeenOrMentioned,First seen
+Rhaegar_Targaryen,The_Dragon_and_the_Wolf,SeenOrMentioned,Appeared in
+Daenerys_Targaryen,Winter_Is_Coming,SeenOrMentioned,First seen
+Tommen_Baratheon,Winter_Is_Coming,SeenOrMentioned,First seen
+Tommen_Baratheon,The_Winds_of_Winter,SeenOrMentioned,Last seen
+Tommen_Baratheon,The_Winds_of_Winter,SeenOrMentioned,Death shown in episode
+Myrcella_Baratheon,Winter_Is_Coming,SeenOrMentioned,First seen
+Myrcella_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Last seen
+Myrcella_Baratheon,Home,SeenOrMentioned,Last seen
+Myrcella_Baratheon,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode
+Joffrey_Baratheon,Winter_Is_Coming,SeenOrMentioned,First seen
+Joffrey_Baratheon,The_Lion_and_the_Rose,SeenOrMentioned,Last seen
+Joffrey_Baratheon,Breaker_of_Chains,SeenOrMentioned,Last seen
+Joffrey_Baratheon,The_Lion_and_the_Rose,SeenOrMentioned,Death shown in episode
+Tywin_Lannister,You_Win_or_You_Die,SeenOrMentioned,First seen
+Tywin_Lannister,The_Children,SeenOrMentioned,Last seen
+Tywin_Lannister,The_Wars_To_Come,SeenOrMentioned,Last seen
+Tywin_Lannister,The_Children,SeenOrMentioned,Death shown in episode
+Gregor_Clegane,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Bronn,"Cripples,_Bastards,_and_Broken_Things",SeenOrMentioned,First seen
+Tyrion_Lannister,Winter_Is_Coming,SeenOrMentioned,First seen
+Jaime_Lannister,Winter_Is_Coming,SeenOrMentioned,First seen
+Benjen_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Benjen_Stark,Beyond_the_Wall_(episode),SeenOrMentioned,Last seen
+Benjen_Stark,Beyond_the_Wall_(episode),SeenOrMentioned,Death shown in episode
+Cersei_Lannister,Winter_Is_Coming,SeenOrMentioned,First seen
+Lyanna_Mormont,The_Broken_Man,SeenOrMentioned,First seen
+Lyanna_Mormont,The_House_of_Black_and_White,SeenOrMentioned,Mentioned in
+Meera_Reed,"Dark_Wings,_Dark_Words",SeenOrMentioned,First seen
+Tormund,Valar_Dohaeris,SeenOrMentioned,First seen
+Davos_Seaworth,The_North_Remembers,SeenOrMentioned,First seen
+Edmure_Tully,Walk_of_Punishment,SeenOrMentioned,First seen
+Bran_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Arya_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Sansa_Stark,Winter_Is_Coming,SeenOrMentioned,First seen
+Jon_Snow,Mother%27s_Mercy,SeenOrMentioned,Death shown in episode

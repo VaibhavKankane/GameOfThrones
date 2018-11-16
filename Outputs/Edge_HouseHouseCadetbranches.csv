@@ -1,0 +1,9 @@
+Source,Target,Relation,Label
+House_Gardener,House_Florent,Cadetbranches,Cadet branches
+House_Gardener,House_Tyrell,Cadetbranches,Cadet branches
+House_Baratheon,House_Baratheon_of_King%27s_Landing,Cadetbranches,Cadet branches
+House_Baratheon,House_Baratheon_of_Dragonstone,Cadetbranches,Cadet branches
+House_Targaryen,House_Baratheon,Cadetbranches,Cadet branches
+House_Targaryen,House_Blackfyre,Cadetbranches,Cadet branches
+House_Lannister,House_Lannister_of_Lannisport,Cadetbranches,Cadet branches
+House_Stark,House_Karstark,Cadetbranches,Cadet branches

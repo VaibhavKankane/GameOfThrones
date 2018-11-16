@@ -1,0 +1,12 @@
+Source,Target,Relation,Label
+First_Men,Northmen,Successor,Successor
+First_Men,Crannogmen,Successor,Successor
+First_Men,Free_Folk,Successor,Successor
+First_Men,Hill_tribes,Successor,Successor
+First_Men,Ironborn,Successor,Successor
+Andals,Ironborn,Successor,Successor
+Andals,Dornishmen,Successor,Successor
+Andals,Rhoynar,Successor,Successor
+Andals,Northmen,Successor,Successor
+Andals,First_Men,Successor,Successor
+Rhoynar,Dornishmen,Successor,Successor

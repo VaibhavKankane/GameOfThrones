@@ -1,0 +1,11 @@
+Source,Target,Relation,Label
+Ice,House_Stark,Owner,Owner
+Dawn,House_Dayne,Owner,Owner
+Lady_Forlorn,House_Corbray,Owner,Owner
+Blackfyre,House_Targaryen,Owner,Owner
+Blackfyre,House_Blackfyre,Owner,Owner
+Heartsbane,House_Tarly,Owner,Owner
+Scorpion,House_Lannister,Owner,Owner
+Scorpion,House_Martell,Owner,Owner
+Longclaw,House_Mormont,Owner,Owner
+Forrester_greatsword,House_Forrester,Owner,Owner

@@ -1,0 +1,41 @@
+Source,Target,Relation,Label
+Balerion,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Balerion,Mhysa,SeenOrMentioned,Mentioned in
+Balerion,Stormborn,SeenOrMentioned,Mentioned in
+Grey_Wind,Winter_Is_Coming,SeenOrMentioned,First seen
+Grey_Wind,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Grey_Wind,Mhysa,SeenOrMentioned,Last seen
+Macumber,Lord_Snow,SeenOrMentioned,Mentioned in
+Macumber,Breaker_of_Chains,SeenOrMentioned,Mentioned in
+Bastard%27s_girls,The_Lion_and_the_Rose,SeenOrMentioned,First seen
+The_red,Baelor,SeenOrMentioned,Last seen
+Blood_(horse),Walk_of_Punishment,SeenOrMentioned,First seen
+Nymeria_(direwolf),Winter_Is_Coming,SeenOrMentioned,First seen
+Nymeria_(direwolf),Stormborn,SeenOrMentioned,Last seen
+Lady,Winter_Is_Coming,SeenOrMentioned,First seen
+Lady,The_Kingsroad,SeenOrMentioned,Last seen
+Lady,The_Kingsroad,SeenOrMentioned,Death shown in episode
+Shadow_(snow_bear),The_Ice_Dragon,SeenOrMentioned,Appeared in
+The_silver,Winter_Is_Coming,SeenOrMentioned,First seen
+The_silver,The_North_Remembers,SeenOrMentioned,Last seen
+The_silver,The_North_Remembers,SeenOrMentioned,Death shown in episode
+Last_dragon,Stormborn,SeenOrMentioned,Appeared in
+Last_dragon,Home,SeenOrMentioned,Mentioned in
+Vhagar,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Vhagar,Second_Sons_(episode),SeenOrMentioned,Mentioned in
+Meraxes,A_Man_Without_Honor,SeenOrMentioned,Mentioned in
+Shaggydog,Winter_Is_Coming,SeenOrMentioned,First seen
+Shaggydog,The_Rains_of_Castamere_(episode),SeenOrMentioned,Last seen
+Shaggydog,Battle_of_the_Bastards_(episode),SeenOrMentioned,Last seen
+Dancer,A_Golden_Crown,SeenOrMentioned,First seen
+Ser_Pounce,Oathkeeper,SeenOrMentioned,Appeared in
+Ghost,Winter_Is_Coming,SeenOrMentioned,First seen
+Summer,Winter_Is_Coming,SeenOrMentioned,First seen
+Summer,The_Door,SeenOrMentioned,Last seen
+Summer,The_Door,SeenOrMentioned,Death shown in episode
+Rhaegal,Fire_and_Blood,SeenOrMentioned,First seen
+Viserion,Fire_and_Blood,SeenOrMentioned,First seen
+Viserion,Beyond_the_Wall_(episode),SeenOrMentioned,Death shown in episode
+Drogon,Fire_and_Blood,SeenOrMentioned,First seen
+Stranger,Second_Sons_(episode),SeenOrMentioned,First seen
+Stranger,Mockingbird,SeenOrMentioned,Last seen

@@ -1,0 +1,11 @@
+Source,Target,Relation,Label
+Crannogmen,House_Stark,Ruler,Ruler
+Crannogmen,House_Reed,Ruler,Ruler
+Northmen,House_Stark,Ruler,Ruler
+Northmen,House_Bolton,Ruler,Ruler
+Andals,House_Lannister,Ruler,Ruler
+Andals,House_Lannister,Ruler,Ruler
+Andals,House_Frey,Ruler,Ruler
+Andals,House_Arryn,Ruler,Ruler
+Dornishmen,House_Martell,Ruler,Ruler
+Ironborn,House_Greyjoy,Ruler,Ruler

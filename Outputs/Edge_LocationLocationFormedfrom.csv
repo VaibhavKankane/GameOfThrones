@@ -1,0 +1,9 @@
+Source,Target,Relation,Label
+Kingdom_of_the_Iron_Islands,Iron_Islands,Formedfrom,Formed from
+Kingdom_of_the_North,The_North,Formedfrom,Formed from
+Seven_Kingdoms,Kingdom_of_the_North,Formedfrom,Formed from
+Seven_Kingdoms,Kingdom_of_the_Mountain_and_the_Vale,Formedfrom,Formed from
+Seven_Kingdoms,Kingdom_of_the_Rock,Formedfrom,Formed from
+Seven_Kingdoms,Kingdom_of_the_Reach,Formedfrom,Formed from
+Seven_Kingdoms,Kingdom_of_the_Stormlands,Formedfrom,Formed from
+Seven_Kingdoms,Principality_of_Dorne,Formedfrom,Formed from

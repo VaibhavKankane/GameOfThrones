@@ -1,0 +1,9 @@
+Source,Target,Relation,Label
+Crannogmen,First_Men,Predecessor,Predecessor
+Northmen,First_Men,Predecessor,Predecessor
+Hill_tribes,First_Men,Predecessor,Predecessor
+Free_Folk,First_Men,Predecessor,Predecessor
+Dornishmen,Rhoynar,Predecessor,Predecessor
+Dornishmen,First_Men,Predecessor,Predecessor
+Ironborn,First_Men,Predecessor,Predecessor
+Ironborn,Andals,Predecessor,Predecessor
