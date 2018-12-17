@@ -1,4 +1,4 @@
-# GameOfThrones full dataset from fandom wiki.
+# Game Of Thrones full dataset from fandom wiki.
 Entity graph created by scraping GOTWiki- https://gameofthrones.fandom.com/wiki
 
 Nodes-       ['Organization', 'Person', 'Event', 'Episode', 'Animal', 'Location',
